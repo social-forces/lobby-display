@@ -233,10 +233,10 @@
     },
     {
       "type": "finding",
-      "hook": "New in Social Forces: \"The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries\" 🔗 https://doi.org/10.1093/sf/soag028",
-      "title": "The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries",
-      "authors": "Lincoln Quillian and Arnfinn H Midtbøen",
-      "doi_url": "doi.org/10.1093/sf/soag028"
+      "hook": "A bachelor's degree used to be enough to land a top professional or managerial job. By 2019, you needed grad school, and that's where wage growth went too.",
+      "title": "The role of graduate education in the rising wage premium for professional and managerial occupations, 1980–2019",
+      "authors": "Felix Busch, Paula England, and 1 more",
+      "doi_url": "doi.org/10.1093/sf/soag045"
     },
     {
       "type": "article",
@@ -266,10 +266,10 @@
     },
     {
       "type": "finding",
-      "hook": "New in Social Forces: \"Corruption and the legitimacy of courts: experimental evidence from Brazil\" 🔗 https://doi.org/10.1093/sf/soag029",
-      "title": "Corruption and the legitimacy of courts: experimental evidence from Brazil",
-      "authors": "Luiz Vilaça",
-      "doi_url": "doi.org/10.1093/sf/soag029"
+      "hook": "For immigrant men, self-employment often isn't a step up. It tends to be a fallback for those underpaid as wage workers, and it slows long-term earnings growth.",
+      "title": "The role of self-employment in immigrants’ economic assimilation: a longitudinal analysis",
+      "authors": "Andrés Villarreal and Christopher R Tamborini",
+      "doi_url": "doi.org/10.1093/sf/soag039"
     },
     {
       "type": "article",
@@ -281,10 +281,10 @@
     },
     {
       "type": "finding",
-      "hook": "A bachelor's degree used to be enough to land a top professional or managerial job. By 2019, you needed grad school, and that's where wage growth went too.",
-      "title": "The role of graduate education in the rising wage premium for professional and managerial occupations, 1980–2019",
-      "authors": "Felix Busch, Paula England, and 1 more",
-      "doi_url": "doi.org/10.1093/sf/soag045"
+      "hook": "Most Finnish parents over 60 still live within a 30-minute drive of a child. But that distance has been creeping up, and the cause is demographic, not cultural.",
+      "title": "Are aging parents and adult children living farther apart? Decomposing trends in intergenerational proximity and coresidence among Finnish parents aged 60–69 (2003–2023)",
+      "authors": "Sanny D Afable, Megan Evans, and 5 more",
+      "doi_url": "doi.org/10.1093/sf/soag043"
     },
     {
       "type": "article",
@@ -296,10 +296,10 @@
     },
     {
       "type": "finding",
-      "hook": "For immigrant men, self-employment often isn't a step up. It tends to be a fallback for those underpaid as wage workers, and it slows long-term earnings growth.",
-      "title": "The role of self-employment in immigrants’ economic assimilation: a longitudinal analysis",
-      "authors": "Andrés Villarreal and Christopher R Tamborini",
-      "doi_url": "doi.org/10.1093/sf/soag039"
+      "hook": "Male-breadwinning lowers divorce risk in US states with weak work-family policies. Where state support is strong, family arrangement makes no difference.",
+      "title": "Examining the relationship between male-breadwinning and divorce: the impact of work-family policies in the United States",
+      "authors": "Kimberly McErlean",
+      "doi_url": "doi.org/10.1093/sf/soag046"
     },
     {
       "type": "article",
@@ -311,10 +311,10 @@
     },
     {
       "type": "finding",
-      "hook": "Most Finnish parents over 60 still live within a 30-minute drive of a child. But that distance has been creeping up, and the cause is demographic, not cultural.",
-      "title": "Are aging parents and adult children living farther apart? Decomposing trends in intergenerational proximity and coresidence among Finnish parents aged 60–69 (2003–2023)",
-      "authors": "Sanny D Afable, Megan Evans, and 5 more",
-      "doi_url": "doi.org/10.1093/sf/soag043"
+      "hook": "Most Americans don't sort into 'science people' or 'religion people.' How they blend the two for facts versus moral guidance shapes their political views.",
+      "title": "The cultural meanings of science and religion: moral and epistemic authority in the United States",
+      "authors": "Timothy L O’Brien and Shiri Noy",
+      "doi_url": "doi.org/10.1093/sf/soag036"
     },
     {
       "type": "article",
@@ -326,17 +326,17 @@
     },
     {
       "type": "finding",
-      "hook": "Male-breadwinning lowers divorce risk in US states with weak work-family policies. Where state support is strong, family arrangement makes no difference.",
-      "title": "Examining the relationship between male-breadwinning and divorce: the impact of work-family policies in the United States",
-      "authors": "Kimberly McErlean",
-      "doi_url": "doi.org/10.1093/sf/soag046"
+      "hook": "What actually moves men into housework? Long paternity leave and financial incentives. Most other family policies barely shift the gender split of paid and unpaid work.",
+      "title": "Policy configurations and the elasticity of gendered patterns of paid and unpaid work—evidence from comparative conjoint analyses",
+      "authors": "Isabelle Stadelmann-Steffen, Dominique Oehrli, and 1 more",
+      "doi_url": "doi.org/10.1093/sf/soag038"
     },
     {
       "type": "finding",
-      "hook": "Most Americans don't sort into 'science people' or 'religion people.' How they blend the two for facts versus moral guidance shapes their political views.",
-      "title": "The cultural meanings of science and religion: moral and epistemic authority in the United States",
-      "authors": "Timothy L O’Brien and Shiri Noy",
-      "doi_url": "doi.org/10.1093/sf/soag036"
+      "hook": "A 'diversity hire' joke from a teammate makes Black workers angrier, less trusting of that partner, and less willing to defer to them on shared work.",
+      "title": "Just a diversity hire?: the effects of competency microaggressions in collaborative work",
+      "authors": "Malissa Alinor",
+      "doi_url": "doi.org/10.1093/sf/soag037"
     }
   ]
 }

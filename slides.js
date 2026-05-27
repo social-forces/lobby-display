@@ -130,6 +130,41 @@ function renderSlide(slide) {
   return node;
 }
 
+function fitSlide(node) {
+  // Auto-shrink slide content if it would overflow the stage.
+  // Measures natural content height by temporarily aligning content to the
+  // top (instead of centered) so the last child's bounding box reflects the
+  // true content extent, regardless of grid centering.
+  node.style.transform = "";
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    const cs = getComputedStyle(node);
+    const padTop = parseFloat(cs.paddingTop);
+    const padBot = parseFloat(cs.paddingBottom);
+    const availH = node.clientHeight - padTop - padBot;
+
+    const orig = node.style.alignContent;
+    node.style.alignContent = "start";
+    // Force reflow.
+    void node.offsetHeight;
+
+    const slideRect = node.getBoundingClientRect();
+    let bottom = slideRect.top + padTop;
+    for (const c of node.children) {
+      const r = c.getBoundingClientRect();
+      if (r.height > 0 && r.bottom > bottom) bottom = r.bottom;
+    }
+    const contentH = bottom - (slideRect.top + padTop);
+
+    node.style.alignContent = orig;
+
+    if (contentH > availH) {
+      const scale = Math.max(0.4, (availH / contentH) * 0.96);
+      node.style.transform = `scale(${scale})`;
+      node.style.transformOrigin = "50% 50%";
+    }
+  }));
+}
+
 function show(slide) {
   doiEl.textContent = slide.doi_url || "";
   renderQR(slide.doi_url);
@@ -142,6 +177,7 @@ function show(slide) {
 
   requestAnimationFrame(() => {
     next.classList.add("is-active");
+    fitSlide(next);
   });
 
   if (old) {
@@ -152,6 +188,10 @@ function show(slide) {
 
   startProgress();
 }
+
+window.addEventListener("resize", () => {
+  if (currentNode) fitSlide(currentNode);
+});
 
 function startProgress() {
   progressStart = performance.now();

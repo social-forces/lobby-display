@@ -78,19 +78,9 @@ body {
   gap: 1.6vw;
   padding: 3vw 6vw;
   opacity: 0;
-  transform: translateY(12px);
   transition: opacity 700ms ease, transform 700ms ease;
-  overflow: hidden;
 }
-.slide.is-active { opacity: 1; transform: translateY(0); }
-
-/* Clamp helper — limits any text block to N lines with an ellipsis. */
-.clamp {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
+.slide.is-active { opacity: 1; }
 
 /* ---------- Finding (hero hook) ---------- */
 .slide--finding .hook {
@@ -103,10 +93,6 @@ body {
   max-width: 22ch;
   position: relative;
   padding-left: 1.6vw;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 7;
-  overflow: hidden;
 }
 .slide--finding .hook::before {
   content: "";
@@ -132,10 +118,6 @@ body {
   font-style: italic;
   color: var(--ink-soft);
   max-width: 60ch;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  overflow: hidden;
 }
 .slide--finding .authors {
   font-size: 1.15vw;
@@ -152,19 +134,11 @@ body {
   color: var(--navy);
   letter-spacing: -0.01em;
   max-width: 24ch;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 4;
-  overflow: hidden;
 }
 .slide--article .authors-lg {
   font-size: 1.5vw;
   color: var(--teal-dark);
   font-weight: 500;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  overflow: hidden;
 }
 .slide--article .snippet {
   font-family: 'Lora', Georgia, serif;
@@ -173,10 +147,6 @@ body {
   color: var(--ink-soft);
   max-width: 56ch;
   margin-top: 0.8vw;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 4;
-  overflow: hidden;
 }
 
 /* ---------- Book review ---------- */
@@ -228,10 +198,6 @@ body {
   color: var(--ink);
   letter-spacing: -0.012em;
   max-width: 22ch;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 5;
-  overflow: hidden;
 }
 .slide--book .book-meta {
   font-size: 1.5vw;
@@ -281,10 +247,6 @@ body {
   color: var(--ink);
   letter-spacing: -0.01em;
   max-width: 28ch;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 4;
-  overflow: hidden;
 }
 .slide--classic .authors {
   font-size: 1.3vw;
@@ -298,10 +260,6 @@ body {
   color: var(--ink-soft);
   max-width: 60ch;
   margin-top: 1vw;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 4;
-  overflow: hidden;
 }
 
 /* ---------- QR ---------- */

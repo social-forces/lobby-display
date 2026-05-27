@@ -8,7 +8,6 @@ const BADGE_LABELS = {
 const stage = document.getElementById("stage");
 const progressBar = document.getElementById("progressBar");
 const doiEl = document.querySelector('[data-slot="doi"]');
-const counterEl = document.querySelector('[data-slot="counter"]');
 const qrBlock = document.getElementById("qrBlock");
 const qrEl = document.getElementById("qr");
 
@@ -36,10 +35,18 @@ let progressTimer = null;
 let progressStart = 0;
 let currentNode = null;
 
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 async function loadData() {
   const res = await fetch(`./data.json?t=${Date.now()}`);
   const data = await res.json();
-  slides = data.slides || [];
+  slides = shuffle((data.slides || []).slice());
 }
 
 // Title fields can contain a small allowed set of HTML tags
@@ -125,7 +132,6 @@ function renderSlide(slide) {
 
 function show(slide) {
   doiEl.textContent = slide.doi_url || "";
-  counterEl.textContent = `${idx + 1} / ${slides.length}`;
   renderQR(slide.doi_url);
 
   const next = renderSlide(slide);

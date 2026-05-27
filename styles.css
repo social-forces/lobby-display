@@ -1,0 +1,345 @@
+:root {
+  --teal: #3d8b8c;
+  --teal-dark: #2f6f70;
+  --navy: #094567;
+  --paper: #fafaf7;
+  --paper-warm: #f1ede2;
+  --ink: #1a1a1a;
+  --ink-soft: #4a4a4a;
+  --ink-muted: #7a7a72;
+  --rule: rgba(28, 61, 92, 0.18);
+  --slide-dur: 20s;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto auto;
+  height: 100vh;
+}
+
+/* ---------- Masthead (Social Forces journal mark) ---------- */
+.masthead {
+  display: flex;
+  flex-direction: column;
+}
+
+.masthead-band {
+  background: var(--teal);
+  padding: 2vw 3.2vw 1.8vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2vw;
+}
+
+.wordmark {
+  display: block;
+  height: 4.4vw;
+  min-height: 52px;
+  width: auto;
+}
+
+.masthead-strip {
+  background: var(--navy);
+  height: 1.6vw;
+  min-height: 18px;
+}
+
+
+/* ---------- Stage ---------- */
+.stage {
+  position: relative;
+  display: grid;
+  place-items: center;
+  padding: 3vw 6vw;
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  align-content: center;
+  justify-items: start;
+  gap: 1.6vw;
+  padding: 3vw 6vw;
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 700ms ease, transform 700ms ease;
+}
+.slide.is-active { opacity: 1; transform: translateY(0); }
+
+/* ---------- Finding (hero hook) ---------- */
+.slide--finding .hook {
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 500;
+  font-size: 4.2vw;
+  line-height: 1.18;
+  color: var(--ink);
+  letter-spacing: -0.012em;
+  max-width: 22ch;
+  position: relative;
+  padding-left: 1.6vw;
+}
+.slide--finding .hook::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.6vw;
+  bottom: 0.6vw;
+  width: 0.45vw;
+  background: var(--teal);
+  border-radius: 4px;
+}
+.slide--finding .cite {
+  margin-top: 0.6vw;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.4vw;
+  display: grid;
+  gap: 0.5vw;
+}
+.slide--finding .title {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.5vw;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--ink-soft);
+  max-width: 60ch;
+}
+.slide--finding .authors {
+  font-size: 1.15vw;
+  color: var(--ink-muted);
+  letter-spacing: 0.02em;
+}
+
+/* ---------- Article (full citation feel) ---------- */
+.slide--article .title-xl {
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 600;
+  font-size: 3.4vw;
+  line-height: 1.2;
+  color: var(--navy);
+  letter-spacing: -0.01em;
+  max-width: 24ch;
+}
+.slide--article .authors-lg {
+  font-size: 1.5vw;
+  color: var(--teal-dark);
+  font-weight: 500;
+}
+.slide--article .snippet {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.6vw;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  max-width: 56ch;
+  margin-top: 0.8vw;
+}
+
+/* ---------- Book review ---------- */
+.slide--book {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: center;
+  gap: 4vw;
+}
+.slide--book.has-cover {
+  grid-template-columns: 22vw minmax(0, 1fr);
+}
+.slide--book .book-cover-wrap {
+  display: none;
+  align-self: center;
+  justify-self: start;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow:
+    0 24px 60px rgba(28, 61, 92, 0.18),
+    0 4px 12px rgba(28, 61, 92, 0.12);
+}
+.slide--book.has-cover .book-cover-wrap {
+  display: block;
+}
+.slide--book .book-cover {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.slide--book .book-copy {
+  display: grid;
+  gap: 0.6vw;
+  align-content: center;
+}
+.slide--book .kicker {
+  font-size: 1.1vw;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--teal-dark);
+  margin-bottom: 0.4vw;
+}
+.slide--book .book-title {
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 600;
+  font-size: 3.6vw;
+  line-height: 1.18;
+  color: var(--ink);
+  letter-spacing: -0.012em;
+  max-width: 22ch;
+}
+.slide--book .book-meta {
+  font-size: 1.5vw;
+  color: var(--ink-soft);
+  font-style: italic;
+  margin-top: 0.6vw;
+}
+.slide--book .book-meta .dot {
+  margin: 0 0.6vw;
+  color: var(--ink-muted);
+  font-style: normal;
+}
+.slide--book .reviewer {
+  margin-top: 1.6vw;
+  padding-top: 1.4vw;
+  border-top: 1px solid var(--rule);
+  font-size: 1.3vw;
+  color: var(--ink-muted);
+  letter-spacing: 0.04em;
+}
+
+/* ---------- Classic ---------- */
+.slide--classic {
+  position: relative;
+}
+.slide--classic .badge {
+  font-size: 1.1vw;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--teal-dark);
+}
+.slide--classic .rank {
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 600;
+  font-size: 6vw;
+  line-height: 1;
+  color: var(--teal);
+  letter-spacing: -0.02em;
+  margin: -0.4vw 0 0.4vw;
+}
+.slide--classic .title-lg {
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 600;
+  font-size: 2.6vw;
+  line-height: 1.22;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  max-width: 28ch;
+}
+.slide--classic .authors {
+  font-size: 1.3vw;
+  color: var(--ink-muted);
+  margin-top: 0.4vw;
+}
+.slide--classic .snippet-sm {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.3vw;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  max-width: 60ch;
+  margin-top: 1vw;
+}
+
+/* ---------- QR ---------- */
+.qr-block {
+  position: absolute;
+  right: 3.2vw;
+  bottom: 6vw;
+  display: grid;
+  justify-items: center;
+  gap: 0.6vw;
+  padding: 1.2vw;
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(28, 61, 92, 0.06);
+}
+.qr {
+  width: 9vw;
+  height: 9vw;
+  min-width: 120px;
+  min-height: 120px;
+  display: grid;
+  place-items: center;
+}
+.qr svg, .qr canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.qr-caption {
+  font-size: 0.9vw;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+.qr-block.is-hidden { display: none; }
+
+/* ---------- Footer + progress ---------- */
+.footerline {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 1.2vw 3.2vw 1.2vw;
+  border-top: 1px solid var(--rule);
+}
+.doi {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.15vw;
+  font-weight: 500;
+  color: var(--navy);
+  letter-spacing: 0.04em;
+}
+.counter {
+  font-size: 0.95vw;
+  color: var(--ink-muted);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.progress {
+  height: 5px;
+  background: rgba(28, 61, 92, 0.08);
+  position: relative;
+}
+.progress-bar {
+  height: 100%;
+  background: var(--teal);
+  width: 0%;
+  transition: width 100ms linear;
+}
+
+/* ---------- Small-screen safeguards ---------- */
+@media (max-width: 900px) {
+  .slide--finding .hook { font-size: 7vw; }
+  .slide--article .title-xl { font-size: 6vw; }
+  .slide--book .book-title { font-size: 6vw; }
+  .slide--classic .title-lg { font-size: 4.5vw; }
+  .slide--classic .rank { font-size: 10vw; }
+}
+
+/* ---------- Hide cursor ---------- */
+body.fullscreen-mode { cursor: none; }

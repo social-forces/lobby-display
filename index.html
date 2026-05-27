@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Social Forces — Now Showing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700&family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,700;0,8..60,800;0,8..60,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-band">
+      <img class="wordmark" src="./sf-wordmark.svg" alt="Social Forces">
+    </div>
+    <div class="masthead-strip"></div>
+  </header>
+
+  <main id="stage" class="stage" aria-live="polite"></main>
+
+  <aside class="qr-block" id="qrBlock" aria-hidden="true">
+    <div class="qr" id="qr"></div>
+    <div class="qr-caption">Scan to read</div>
+  </aside>
+
+  <footer class="footerline">
+    <div class="doi" data-slot="doi"></div>
+    <div class="counter" data-slot="counter"></div>
+  </footer>
+
+  <div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+
+  <!-- Slide templates -->
+  <template id="t-finding">
+    <article class="slide slide--finding">
+      <div class="hook" data-slot="hook"></div>
+      <div class="cite">
+        <div class="title" data-slot="title"></div>
+        <div class="authors" data-slot="authors"></div>
+      </div>
+    </article>
+  </template>
+
+  <template id="t-article">
+    <article class="slide slide--article">
+      <div class="title-xl" data-slot="title"></div>
+      <div class="authors-lg" data-slot="authors"></div>
+      <div class="snippet" data-slot="snippet"></div>
+    </article>
+  </template>
+
+  <template id="t-book_review">
+    <article class="slide slide--book">
+      <div class="book-cover-wrap" data-slot="cover_wrap">
+        <img class="book-cover" data-slot="cover" alt="">
+      </div>
+      <div class="book-copy">
+        <div class="kicker">Book Review</div>
+        <div class="book-title" data-slot="book_title"></div>
+        <div class="book-meta">
+          <span data-slot="book_author"></span>
+          <span class="dot" data-slot="dot">·</span>
+          <span data-slot="book_year"></span>
+        </div>
+        <div class="reviewer" data-slot="reviewer"></div>
+      </div>
+    </article>
+  </template>
+
+  <template id="t-classic">
+    <article class="slide slide--classic">
+      <div class="badge" data-slot="badge"></div>
+      <div class="rank" data-slot="rank"></div>
+      <div class="title-lg" data-slot="title"></div>
+      <div class="authors" data-slot="authors"></div>
+      <div class="snippet-sm" data-slot="snippet"></div>
+    </article>
+  </template>
+
+  <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js"></script>
+  <script type="module" src="./slides.js"></script>
+</body>
+</html>

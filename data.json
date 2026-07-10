@@ -2,10 +2,10 @@
   "slides": [
     {
       "type": "finding",
-      "hook": "Pay gaps are widest inside the best-paid groups, and here's why: already high earners are the ones who land in the top-paying firms and jobs, and that pull gets stronger the higher you go.",
-      "title": "The nonlinear nature of labor market sorting: explaining wage inequalities between and within sociodemographic groups",
-      "authors": "Lucas Sage",
-      "doi_url": "doi.org/10.1093/sf/soag067"
+      "hook": "Environmental racism is often treated as recent. But in six US cities from 1880 to 1930, racialized neighborhoods already faced steadily rising industrial pollution, so it took root far earlier than thought.",
+      "title": "Environment and the racialization of space in US cities",
+      "authors": "Jonathan Tollefson",
+      "doi_url": "doi.org/10.1093/sf/soag001"
     },
     {
       "type": "article",
@@ -35,10 +35,10 @@
     },
     {
       "type": "finding",
-      "hook": "You'd expect that telling employers a minority group is equally productive would cut hiring bias. It didn't. Only individual proof of qualification erased it; the group message wiped out even that.",
-      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
-      "authors": "Akira Igarashi and Susumu Cato",
-      "doi_url": "doi.org/10.1093/sf/soag072"
+      "hook": "Pay gaps are widest inside the best-paid groups, and here's why: already high earners are the ones who land in the top-paying firms and jobs, and that pull gets stronger the higher you go.",
+      "title": "The nonlinear nature of labor market sorting: explaining wage inequalities between and within sociodemographic groups",
+      "authors": "Lucas Sage",
+      "doi_url": "doi.org/10.1093/sf/soag067"
     },
     {
       "type": "article",
@@ -68,10 +68,10 @@
     },
     {
       "type": "finding",
-      "hook": "More low-income women finish college than ever, which reads as progress. But caretaking, work, and coursework pull at once, and they interrupt college more than low-income men or richer women.",
-      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
-      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
-      "doi_url": "doi.org/10.1093/sf/soag068"
+      "hook": "You'd expect that telling employers a minority group is equally productive would cut hiring bias. It didn't. Only individual proof of qualification erased it; the group message wiped out even that.",
+      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
+      "authors": "Akira Igarashi and Susumu Cato",
+      "doi_url": "doi.org/10.1093/sf/soag072"
     },
     {
       "type": "article",
@@ -101,10 +101,10 @@
     },
     {
       "type": "finding",
-      "hook": "Primary school is supposed to close early gaps. It only half does: reading and math gaps from the starting line shrink, but new gaps in how fast children learn widen total inequality.",
-      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
-      "authors": "Kim Stienstra",
-      "doi_url": "doi.org/10.1093/sf/soag077"
+      "hook": "More low-income women finish college than ever, which reads as progress. But caretaking, work, and coursework pull at once, and they interrupt college more than low-income men or richer women.",
+      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
+      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
+      "doi_url": "doi.org/10.1093/sf/soag068"
     },
     {
       "type": "article",
@@ -134,10 +134,10 @@
     },
     {
       "type": "finding",
-      "hook": "Whether workers see a boss as legitimate depends not just on how the boss treats them but on what coworkers think. Peer approval outweighs the higher-ups'.",
-      "title": "The bases of propriety: instrumental, relational, moral, and collective",
-      "authors": "Kate Hawks, Cathryn Johnson, Karen A Hegtvedt, and Ryan Gibson",
-      "doi_url": "doi.org/10.1093/sf/soag004"
+      "hook": "Primary school is supposed to close early gaps. It only half does: reading and math gaps from the starting line shrink, but new gaps in how fast children learn widen total inequality.",
+      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
+      "authors": "Kim Stienstra",
+      "doi_url": "doi.org/10.1093/sf/soag077"
     },
     {
       "type": "article",
@@ -167,10 +167,10 @@
     },
     {
       "type": "finding",
-      "hook": "Asylum officers give more weight to claims that move them emotionally, often regardless of an applicant's background or the formal merits of the case.",
-      "title": "Seeking meaning in US asylum adjudications: aspirations, affect, and morality on the frontlines of the state",
-      "authors": "Talia Shiff",
-      "doi_url": "doi.org/10.1093/sf/soag007"
+      "hook": "Whether workers see a boss as legitimate depends not just on how the boss treats them but on what coworkers think. Peer approval outweighs the higher-ups'.",
+      "title": "The bases of propriety: instrumental, relational, moral, and collective",
+      "authors": "Kate Hawks, Cathryn Johnson, Karen A Hegtvedt, and Ryan Gibson",
+      "doi_url": "doi.org/10.1093/sf/soag004"
     },
     {
       "type": "article",
@@ -200,10 +200,10 @@
     },
     {
       "type": "finding",
-      "hook": "Most people think siblings should inherit equally. The wealthy make an exception: they accept giving one child more to keep a family business intact.",
-      "title": "The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families",
-      "authors": "Nhat An Trinh, Daria Tisch, and Manuel Schechtl",
-      "doi_url": "doi.org/10.1093/sf/soag010"
+      "hook": "Asylum officers give more weight to claims that move them emotionally, often regardless of an applicant's background or the formal merits of the case.",
+      "title": "Seeking meaning in US asylum adjudications: aspirations, affect, and morality on the frontlines of the state",
+      "authors": "Talia Shiff",
+      "doi_url": "doi.org/10.1093/sf/soag007"
     },
     {
       "type": "article",
@@ -233,10 +233,10 @@
     },
     {
       "type": "finding",
-      "hook": "Jobs filled by people from privileged backgrounds pay more. And within those jobs, workers from upper-class families earn even more than their peers.",
-      "title": "Class origin closure: economic advantages of occupational elitism",
-      "authors": "Dirk Witteveen",
-      "doi_url": "doi.org/10.1093/sf/soag012"
+      "hook": "Most people think siblings should inherit equally. The wealthy make an exception: they accept giving one child more to keep a family business intact.",
+      "title": "The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families",
+      "authors": "Nhat An Trinh, Daria Tisch, and Manuel Schechtl",
+      "doi_url": "doi.org/10.1093/sf/soag010"
     },
     {
       "type": "article",
@@ -266,10 +266,10 @@
     },
     {
       "type": "finding",
-      "hook": "Elites credit their own success to hard work. But opposition to income transfers comes from a different belief: that the poor simply did not put in the effort.",
-      "title": "Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa",
-      "authors": "Livio Silva-Muller, Graziella Moraes Silva, and Matias López",
-      "doi_url": "doi.org/10.1093/sf/soag064"
+      "hook": "Jobs filled by people from privileged backgrounds pay more. And within those jobs, workers from upper-class families earn even more than their peers.",
+      "title": "Class origin closure: economic advantages of occupational elitism",
+      "authors": "Dirk Witteveen",
+      "doi_url": "doi.org/10.1093/sf/soag012"
     },
     {
       "type": "article",
@@ -281,10 +281,10 @@
     },
     {
       "type": "finding",
-      "hook": "Many highly religious Dutch Muslims also accept homosexuality, cutting against the idea that Muslim faith uniformly clashes with liberal values on gender and sexuality.",
-      "title": "Unpacking the nexus of Islamic religiosity and attitudes towards individual liberties and gender equality: a person-centered analysis among Dutch Muslims",
-      "authors": "Marija Dangubić and Fenella Fleischmann",
-      "doi_url": "doi.org/10.1093/sf/soaf149"
+      "hook": "Elites credit their own success to hard work. But opposition to income transfers comes from a different belief: that the poor simply did not put in the effort.",
+      "title": "Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa",
+      "authors": "Livio Silva-Muller, Graziella Moraes Silva, and Matias López",
+      "doi_url": "doi.org/10.1093/sf/soag064"
     },
     {
       "type": "article",
@@ -296,10 +296,10 @@
     },
     {
       "type": "finding",
-      "hook": "Corporate climate disclosure rules grew from private advocates, not regulators, who reframed climate change as a financial risk to companies rather than a harm companies cause.",
-      "title": "Risky climate: the endogenous institutionalization of climate disclosure in corporate climate governance",
-      "authors": "Janna Z Huang",
-      "doi_url": "doi.org/10.1093/sf/soag009"
+      "hook": "Many highly religious Dutch Muslims also accept homosexuality, cutting against the idea that Muslim faith uniformly clashes with liberal values on gender and sexuality.",
+      "title": "Unpacking the nexus of Islamic religiosity and attitudes towards individual liberties and gender equality: a person-centered analysis among Dutch Muslims",
+      "authors": "Marija Dangubić and Fenella Fleischmann",
+      "doi_url": "doi.org/10.1093/sf/soaf149"
     },
     {
       "type": "article",
@@ -311,10 +311,10 @@
     },
     {
       "type": "finding",
-      "hook": "Among older adults, larger body size lowers women's access to a partner and partnered sex, but not men's. The gap tracks attractiveness and physical functioning, not weight alone.",
-      "title": "It is not what you weigh, it is how you present it: body size, attractiveness, physical functioning, and access to partnership and sexuality for older men and women",
-      "authors": "Yiang Li and Linda J Waite",
-      "doi_url": "doi.org/10.1093/sf/soaf046"
+      "hook": "Corporate climate disclosure rules grew from private advocates, not regulators, who reframed climate change as a financial risk to companies rather than a harm companies cause.",
+      "title": "Risky climate: the endogenous institutionalization of climate disclosure in corporate climate governance",
+      "authors": "Janna Z Huang",
+      "doi_url": "doi.org/10.1093/sf/soag009"
     },
     {
       "type": "article",
@@ -326,17 +326,17 @@
     },
     {
       "type": "finding",
+      "hook": "Among older adults, larger body size lowers women's access to a partner and partnered sex, but not men's. The gap tracks attractiveness and physical functioning, not weight alone.",
+      "title": "It is not what you weigh, it is how you present it: body size, attractiveness, physical functioning, and access to partnership and sexuality for older men and women",
+      "authors": "Yiang Li and Linda J Waite",
+      "doi_url": "doi.org/10.1093/sf/soaf046"
+    },
+    {
+      "type": "finding",
       "hook": "Evangelical Protestant colleges that once barred Black students now tend to bar gay and transgender students too. Mainline and Catholic schools with the same past rarely do.",
       "title": "Transmorphic organizations: racial segregation and discrimination against LGBTQ students at Christian colleges and universities",
       "authors": "Jonathan S Coley and Gabby Gomez",
       "doi_url": "doi.org/10.1093/sf/soaf175"
-    },
-    {
-      "type": "finding",
-      "hook": "Transgender and nonbinary renters in Germany face clear discrimination in shared housing, but it eases in cities with secular populations and protective state policies.",
-      "title": "Unshared spaces: a field experiment on the politico-cultural contexts of housing discrimination against transgender and nonbinary persons in Germany",
-      "authors": "Heiko Beyer and Elea Pfleger",
-      "doi_url": "doi.org/10.1093/sf/soaf204"
     }
   ]
 }

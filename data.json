@@ -2,18 +2,18 @@
   "slides": [
     {
       "type": "finding",
-      "hook": "Environmental racism is often treated as recent. But in six US cities from 1880 to 1930, racialized neighborhoods already faced steadily rising industrial pollution, so it took root far earlier than thought.",
-      "title": "Environment and the racialization of space in US cities",
-      "authors": "Jonathan Tollefson",
-      "doi_url": "doi.org/10.1093/sf/soag001"
+      "hook": "What builds expertise among Argentina's agroecology farmers isn't official training. It's discernment, weighing state advice against their own goals, keeping what fits and dropping what serves agribusiness.",
+      "title": "A work of discernment: the co-construction of environmental expertise among agroecology farmers",
+      "authors": "Agueda Ortega",
+      "doi_url": "doi.org/10.1093/sf/soag085"
     },
     {
       "type": "article",
-      "title": "A work of discernment: the co-construction of environmental expertise among agroecology farmers",
-      "authors": "Agueda Ortega",
-      "snippet": "Agroecology—a food production and consumption model that integrates ecological, social, and economic sustainability principles—underwent a period of significant growth in recent years in Argentina. Acquiring specialized knowledge about agroecology practices is a priority for farmers who pursue socio-environmental goals, but the process for building such expertise is not clearly laid out.",
-      "doi_url": "doi.org/10.1093/sf/soag085",
-      "pub_date": "2026-07-01"
+      "title": "Higher education expansion and attainment gaps in meritocratic beliefs",
+      "authors": "Angran Li and Minghao Tang",
+      "snippet": "Over the past decades, higher education has expanded dramatically worldwide, yet how this transformation shapes public beliefs in meritocracy remains underexplored. This study examines how the expansion of higher education has shaped public beliefs in meritocracy across thirty Western countries.",
+      "doi_url": "doi.org/10.1093/sf/soag089",
+      "pub_date": "2026-07-07"
     },
     {
       "type": "book_review",
@@ -35,18 +35,18 @@
     },
     {
       "type": "finding",
-      "hook": "Pay gaps are widest inside the best-paid groups, and here's why: already high earners are the ones who land in the top-paying firms and jobs, and that pull gets stronger the higher you go.",
-      "title": "The nonlinear nature of labor market sorting: explaining wage inequalities between and within sociodemographic groups",
-      "authors": "Lucas Sage",
-      "doi_url": "doi.org/10.1093/sf/soag067"
+      "hook": "Environmental racism is often treated as recent. But in six US cities from 1880 to 1930, racialized neighborhoods already faced steadily rising industrial pollution, so it took root far earlier than thought.",
+      "title": "Environment and the racialization of space in US cities",
+      "authors": "Jonathan Tollefson",
+      "doi_url": "doi.org/10.1093/sf/soag001"
     },
     {
       "type": "article",
-      "title": "For what benefit? State Right to Work laws and employer-provided retirement and health insurance benefits",
-      "authors": "Alec P Rhodes",
-      "snippet": "Employer-provided benefits add to total compensation and enhance economic security. Yet an increasing share of American workers lack access to employer-provided retirement and health insurance benefits, a trend that scholars link to labor union decline.",
-      "doi_url": "doi.org/10.1093/sf/soag086",
-      "pub_date": "2026-07-01"
+      "title": "Later life social interactions in community spaces",
+      "authors": "Maleah Fekete, Tianyao Qu, Brea L Perry, Siyun Peng, and Adam R Roth",
+      "snippet": "Daily social interactions provide access to key social resources, yet little research has examined how these interactions vary across geographic space—particularly in later life. Using ecological momentary assessment data from a state-representative study of older adults in Indiana, we examine how interactions with different partners vary across a continuum of municipality population density.",
+      "doi_url": "doi.org/10.1093/sf/soag088",
+      "pub_date": "2026-07-07"
     },
     {
       "type": "book_review",
@@ -68,18 +68,18 @@
     },
     {
       "type": "finding",
-      "hook": "You'd expect that telling employers a minority group is equally productive would cut hiring bias. It didn't. Only individual proof of qualification erased it; the group message wiped out even that.",
-      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
-      "authors": "Akira Igarashi and Susumu Cato",
-      "doi_url": "doi.org/10.1093/sf/soag072"
+      "hook": "Pay gaps are widest inside the best-paid groups, and here's why: already high earners are the ones who land in the top-paying firms and jobs, and that pull gets stronger the higher you go.",
+      "title": "The nonlinear nature of labor market sorting: explaining wage inequalities between and within sociodemographic groups",
+      "authors": "Lucas Sage",
+      "doi_url": "doi.org/10.1093/sf/soag067"
     },
     {
       "type": "article",
-      "title": "Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations",
-      "authors": "Amanda B Cox",
-      "snippet": "Participatory-democratic organizations seek to redistribute decision-making authority, but doing so raises a practical question: how do participants learn to exercise that authority in nonhierarchical, collective ways? This paper theorizes how participatory-democratic organizations address what I term the collective-practice gap: the gap between the individualistic capacities shaped in hierarchical institutions and the relational, participatory capacities required for nonhierarchical, collective participation.",
-      "doi_url": "doi.org/10.1093/sf/soag076",
-      "pub_date": "2026-06-29"
+      "title": "Paving the way: redlining and contemporary transportation emissions in US cities",
+      "authors": "Rachel McKane and Patrick Trent Greiner",
+      "snippet": "We expand upon the structural human ecology tradition by recasting its classic drivers as historically racialized mechanisms operating within a system of racial capitalism. We draw on critical approaches to environmental justice to link multiscalar processes to material infrastructures, theorizing redlining and interstate-highway planning as coupled racial projects that organize the production of transportation emissions across urban space.",
+      "doi_url": "doi.org/10.1093/sf/soag083",
+      "pub_date": "2026-07-06"
     },
     {
       "type": "book_review",
@@ -101,18 +101,18 @@
     },
     {
       "type": "finding",
-      "hook": "More low-income women finish college than ever, which reads as progress. But caretaking, work, and coursework pull at once, and they interrupt college more than low-income men or richer women.",
-      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
-      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
-      "doi_url": "doi.org/10.1093/sf/soag068"
+      "hook": "You'd expect that telling employers a minority group is equally productive would cut hiring bias. It didn't. Only individual proof of qualification erased it; the group message wiped out even that.",
+      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
+      "authors": "Akira Igarashi and Susumu Cato",
+      "doi_url": "doi.org/10.1093/sf/soag072"
     },
     {
       "type": "article",
-      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
-      "authors": "Kim Stienstra",
-      "snippet": "Are differences in educational performance between pupils at the start of schooling—and their underlying genetic and environmental sources—reproduced, accumulated, or compensated over the primary school career? I investigate this using reading comprehension and mathematics test scores of over 4,000 same-sex and opposite-sex twin pairs, identified in the Netherlands Cohort Study on Education (Grades 1–5).",
-      "doi_url": "doi.org/10.1093/sf/soag077",
-      "pub_date": "2026-06-24"
+      "title": "Job precarity and earnings inequality in contemporary China",
+      "authors": "Zhipeng Zhou",
+      "snippet": "Job precarity is a core mechanism of workplace inequality that underlies economic segmentation between organizational insiders and outsiders. Yet less is known about how institutional contexts affect dual employment arrangements that create differential rewards between long-term and short-term workers.",
+      "doi_url": "doi.org/10.1093/sf/soag087",
+      "pub_date": "2026-07-06"
     },
     {
       "type": "book_review",
@@ -134,18 +134,18 @@
     },
     {
       "type": "finding",
-      "hook": "Primary school is supposed to close early gaps. It only half does: reading and math gaps from the starting line shrink, but new gaps in how fast children learn widen total inequality.",
-      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
-      "authors": "Kim Stienstra",
-      "doi_url": "doi.org/10.1093/sf/soag077"
+      "hook": "More low-income women finish college than ever, which reads as progress. But caretaking, work, and coursework pull at once, and they interrupt college more than low-income men or richer women.",
+      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
+      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
+      "doi_url": "doi.org/10.1093/sf/soag068"
     },
     {
       "type": "article",
-      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
-      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
-      "snippet": "Scholars have identified women’s simultaneous labor force and domestic responsibilities as a “double burden” but have not fully explored how these demands intersect with pursuing higher education. Research consistently shows women’s increasing participation in higher education, with women—especially from low socioeconomic status (SES) backgrounds—outpacing men in bachelor’s degree attainment.",
-      "doi_url": "doi.org/10.1093/sf/soag068",
-      "pub_date": "2026-06-24"
+      "title": "A work of discernment: the co-construction of environmental expertise among agroecology farmers",
+      "authors": "Agueda Ortega",
+      "snippet": "Agroecology—a food production and consumption model that integrates ecological, social, and economic sustainability principles—underwent a period of significant growth in recent years in Argentina. Acquiring specialized knowledge about agroecology practices is a priority for farmers who pursue socio-environmental goals, but the process for building such expertise is not clearly laid out.",
+      "doi_url": "doi.org/10.1093/sf/soag085",
+      "pub_date": "2026-07-01"
     },
     {
       "type": "book_review",
@@ -167,18 +167,18 @@
     },
     {
       "type": "finding",
-      "hook": "Whether workers see a boss as legitimate depends not just on how the boss treats them but on what coworkers think. Peer approval outweighs the higher-ups'.",
-      "title": "The bases of propriety: instrumental, relational, moral, and collective",
-      "authors": "Kate Hawks, Cathryn Johnson, Karen A Hegtvedt, and Ryan Gibson",
-      "doi_url": "doi.org/10.1093/sf/soag004"
+      "hook": "Primary school is supposed to close early gaps. It only half does: reading and math gaps from the starting line shrink, but new gaps in how fast children learn widen total inequality.",
+      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
+      "authors": "Kim Stienstra",
+      "doi_url": "doi.org/10.1093/sf/soag077"
     },
     {
       "type": "article",
-      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
-      "authors": "Akira Igarashi and Susumu Cato",
-      "snippet": "Labor market discrimination against ethnic minority applicants remains persistent despite extensive research and policy interventions. While social scientists have thoroughly examined statistical discrimination—wherein employers rely on group-level information to infer candidates’ future productivity due to limited individual information in resumes—fundamental questions remain unanswered regarding the relative impact of different information types.",
-      "doi_url": "doi.org/10.1093/sf/soag072",
-      "pub_date": "2026-06-24"
+      "title": "For what benefit? State Right to Work laws and employer-provided retirement and health insurance benefits",
+      "authors": "Alec P Rhodes",
+      "snippet": "Employer-provided benefits add to total compensation and enhance economic security. Yet an increasing share of American workers lack access to employer-provided retirement and health insurance benefits, a trend that scholars link to labor union decline.",
+      "doi_url": "doi.org/10.1093/sf/soag086",
+      "pub_date": "2026-07-01"
     },
     {
       "type": "book_review",
@@ -200,18 +200,18 @@
     },
     {
       "type": "finding",
-      "hook": "Asylum officers give more weight to claims that move them emotionally, often regardless of an applicant's background or the formal merits of the case.",
-      "title": "Seeking meaning in US asylum adjudications: aspirations, affect, and morality on the frontlines of the state",
-      "authors": "Talia Shiff",
-      "doi_url": "doi.org/10.1093/sf/soag007"
+      "hook": "Whether workers see a boss as legitimate depends not just on how the boss treats them but on what coworkers think. Peer approval outweighs the higher-ups'.",
+      "title": "The bases of propriety: instrumental, relational, moral, and collective",
+      "authors": "Kate Hawks, Cathryn Johnson, Karen A Hegtvedt, and Ryan Gibson",
+      "doi_url": "doi.org/10.1093/sf/soag004"
     },
     {
       "type": "article",
-      "title": "The nonlinear nature of labor market sorting: explaining wage inequalities between and within sociodemographic groups",
-      "authors": "Lucas Sage",
-      "snippet": "Sociodemographic groups with higher average wages also exhibit higher internal wage dispersion, partly explaining the overrepresentation of older, educated men in top wage percentiles. Despite being widely documented, the origins of this relationship remain poorly understood.",
-      "doi_url": "doi.org/10.1093/sf/soag067",
-      "pub_date": "2026-06-24"
+      "title": "Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations",
+      "authors": "Amanda B Cox",
+      "snippet": "Participatory-democratic organizations seek to redistribute decision-making authority, but doing so raises a practical question: how do participants learn to exercise that authority in nonhierarchical, collective ways? This paper theorizes how participatory-democratic organizations address what I term the collective-practice gap: the gap between the individualistic capacities shaped in hierarchical institutions and the relational, participatory capacities required for nonhierarchical, collective participation.",
+      "doi_url": "doi.org/10.1093/sf/soag076",
+      "pub_date": "2026-06-29"
     },
     {
       "type": "book_review",
@@ -233,18 +233,18 @@
     },
     {
       "type": "finding",
-      "hook": "Most people think siblings should inherit equally. The wealthy make an exception: they accept giving one child more to keep a family business intact.",
-      "title": "The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families",
-      "authors": "Nhat An Trinh, Daria Tisch, and Manuel Schechtl",
-      "doi_url": "doi.org/10.1093/sf/soag010"
+      "hook": "Asylum officers give more weight to claims that move them emotionally, often regardless of an applicant's background or the formal merits of the case.",
+      "title": "Seeking meaning in US asylum adjudications: aspirations, affect, and morality on the frontlines of the state",
+      "authors": "Talia Shiff",
+      "doi_url": "doi.org/10.1093/sf/soag007"
     },
     {
       "type": "article",
-      "title": "Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa",
-      "authors": "Livio Silva-Muller, Graziella Moraes Silva, and Matias López",
-      "snippet": "Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others.",
-      "doi_url": "doi.org/10.1093/sf/soag064",
-      "pub_date": "2026-06-18"
+      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
+      "authors": "Kim Stienstra",
+      "snippet": "Are differences in educational performance between pupils at the start of schooling—and their underlying genetic and environmental sources—reproduced, accumulated, or compensated over the primary school career? I investigate this using reading comprehension and mathematics test scores of over 4,000 same-sex and opposite-sex twin pairs, identified in the Netherlands Cohort Study on Education (Grades 1–5).",
+      "doi_url": "doi.org/10.1093/sf/soag077",
+      "pub_date": "2026-06-24"
     },
     {
       "type": "book_review",
@@ -266,6 +266,21 @@
     },
     {
       "type": "finding",
+      "hook": "Most people think siblings should inherit equally. The wealthy make an exception: they accept giving one child more to keep a family business intact.",
+      "title": "The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families",
+      "authors": "Nhat An Trinh, Daria Tisch, and Manuel Schechtl",
+      "doi_url": "doi.org/10.1093/sf/soag010"
+    },
+    {
+      "type": "article",
+      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
+      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
+      "snippet": "Scholars have identified women’s simultaneous labor force and domestic responsibilities as a “double burden” but have not fully explored how these demands intersect with pursuing higher education. Research consistently shows women’s increasing participation in higher education, with women—especially from low socioeconomic status (SES) backgrounds—outpacing men in bachelor’s degree attainment.",
+      "doi_url": "doi.org/10.1093/sf/soag068",
+      "pub_date": "2026-06-24"
+    },
+    {
+      "type": "finding",
       "hook": "Jobs filled by people from privileged backgrounds pay more. And within those jobs, workers from upper-class families earn even more than their peers.",
       "title": "Class origin closure: economic advantages of occupational elitism",
       "authors": "Dirk Witteveen",
@@ -273,11 +288,11 @@
     },
     {
       "type": "article",
-      "title": "Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion",
-      "authors": "Adam Goldstein and Max Fineman",
-      "snippet": "This paper considers the relationship between market composition and temporal dynamics of ethno-racial stratification in mass-participatory asset bubbles. Beginning from the insight that bubbles possess the social structure of a Ponzi scheme, we first ask to what extent timing of entry is structured by racial status and associated resource disparities among participants.",
-      "doi_url": "doi.org/10.1093/sf/soag061",
-      "pub_date": "2026-06-04"
+      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
+      "authors": "Akira Igarashi and Susumu Cato",
+      "snippet": "Labor market discrimination against ethnic minority applicants remains persistent despite extensive research and policy interventions. While social scientists have thoroughly examined statistical discrimination—wherein employers rely on group-level information to infer candidates’ future productivity due to limited individual information in resumes—fundamental questions remain unanswered regarding the relative impact of different information types.",
+      "doi_url": "doi.org/10.1093/sf/soag072",
+      "pub_date": "2026-06-24"
     },
     {
       "type": "finding",
@@ -288,11 +303,11 @@
     },
     {
       "type": "article",
-      "title": "The code of cohesion: adolescent network centrality, offending, and the downside of school cohesion",
-      "authors": "Nicolo P Pinchak",
-      "snippet": "Paradoxical to numerous theories and policies, adolescents attending schools high in student cohesion do not reliably exhibit less involvement in offending. Coleman’s arguments about status and norms and the broader literature on adolescent networks suggest that this paradox is partially attributable to high-status males having more leeway to offend when attending schools high in student cohesion, which over time reinforces their engagement in offending.",
-      "doi_url": "doi.org/10.1093/sf/soag062",
-      "pub_date": "2026-05-31"
+      "title": "The nonlinear nature of labor market sorting: explaining wage inequalities between and within sociodemographic groups",
+      "authors": "Lucas Sage",
+      "snippet": "Sociodemographic groups with higher average wages also exhibit higher internal wage dispersion, partly explaining the overrepresentation of older, educated men in top wage percentiles. Despite being widely documented, the origins of this relationship remain poorly understood.",
+      "doi_url": "doi.org/10.1093/sf/soag067",
+      "pub_date": "2026-06-24"
     },
     {
       "type": "finding",
@@ -303,11 +318,11 @@
     },
     {
       "type": "article",
-      "title": "Organizational status and online-offline mobilization cycles",
-      "authors": "Jack G R Wippell",
-      "snippet": "Scholars of social movements and culture are increasingly interested in the dynamic relationship between online discourse and offline mobilization. Although prior work typically frames online discourse as a precursor to offline activism, emerging research on right-wing extremist (RWE) mobilization hints at a reciprocal relationship.",
-      "doi_url": "doi.org/10.1093/sf/soag063",
-      "pub_date": "2026-05-29"
+      "title": "Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa",
+      "authors": "Livio Silva-Muller, Graziella Moraes Silva, and Matias López",
+      "snippet": "Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others.",
+      "doi_url": "doi.org/10.1093/sf/soag064",
+      "pub_date": "2026-06-18"
     },
     {
       "type": "finding",
@@ -317,26 +332,11 @@
       "doi_url": "doi.org/10.1093/sf/soag009"
     },
     {
-      "type": "article",
-      "title": "What we talk about when we talk about guns: four decades of firearms coverage in the <i>New York Times</i>",
-      "authors": "Brett C Burkhardt and Aimee Dinnín Huff",
-      "snippet": "Guns are potent cultural objects in the United States, a fact that has spurred much recent social science research. Much of that work examines the beliefs, discourses, and actions of gun enthusiasts.",
-      "doi_url": "doi.org/10.1093/sf/soag060",
-      "pub_date": "2026-05-27"
-    },
-    {
       "type": "finding",
       "hook": "Among older adults, larger body size lowers women's access to a partner and partnered sex, but not men's. The gap tracks attractiveness and physical functioning, not weight alone.",
       "title": "It is not what you weigh, it is how you present it: body size, attractiveness, physical functioning, and access to partnership and sexuality for older men and women",
       "authors": "Yiang Li and Linda J Waite",
       "doi_url": "doi.org/10.1093/sf/soaf046"
-    },
-    {
-      "type": "finding",
-      "hook": "Evangelical Protestant colleges that once barred Black students now tend to bar gay and transgender students too. Mainline and Catholic schools with the same past rarely do.",
-      "title": "Transmorphic organizations: racial segregation and discrimination against LGBTQ students at Christian colleges and universities",
-      "authors": "Jonathan S Coley and Gabby Gomez",
-      "doi_url": "doi.org/10.1093/sf/soaf175"
     }
   ]
 }

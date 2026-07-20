@@ -2,10 +2,10 @@
   "slides": [
     {
       "type": "finding",
-      "hook": "Who has to prove they can do the job? White men are hired on assumed ability; Black men, Black women, and White women must match every requirement to get the same shot.",
-      "title": "An imperfect match? gender and racial discrimination in hiring and applicant-job requirement matching as an unequal burden of proof",
-      "authors": "Koji Chavez, Katherine Weisshaar, and Tania Hutt",
-      "doi_url": "doi.org/10.1093/sf/soaf243"
+      "hook": "Does sending more people to college make a society believe in merit? Across thirty countries, yes. But it also widens the gap between graduates and everyone else in who buys that.",
+      "title": "Higher education expansion and attainment gaps in meritocratic beliefs",
+      "authors": "Angran Li and Minghao Tang",
+      "doi_url": "doi.org/10.1093/sf/soag089"
     },
     {
       "type": "article",
@@ -13,6 +13,39 @@
       "authors": "Angran Li and Minghao Tang",
       "snippet": "Over the past decades, higher education has expanded dramatically worldwide, yet how this transformation shapes public beliefs in meritocracy remains underexplored. This study examines how the expansion of higher education has shaped public beliefs in meritocracy across thirty Western countries.",
       "doi_url": "doi.org/10.1093/sf/soag089",
+      "pub_date": "2026-07-07"
+    },
+    {
+      "type": "book_review",
+      "book_title": "Cultural Mavericks: The Business and Politics of Independent Bookselling in China",
+      "book_author": "",
+      "book_year": "",
+      "reviewer": "",
+      "doi_url": "doi.org/10.1093/sf/soag093",
+      "cover": ""
+    },
+    {
+      "type": "classic",
+      "source": "most_cited",
+      "rank": "1",
+      "title": "Roles in Sociological Field Observations",
+      "authors": "R. L. Gold",
+      "snippet": "",
+      "doi_url": "doi.org/10.2307/2573808"
+    },
+    {
+      "type": "finding",
+      "hook": "Who has to prove they can do the job? White men are hired on assumed ability; Black men, Black women, and White women must match every requirement to get the same shot.",
+      "title": "An imperfect match? gender and racial discrimination in hiring and applicant-job requirement matching as an unequal burden of proof",
+      "authors": "Koji Chavez, Katherine Weisshaar, and Tania Hutt",
+      "doi_url": "doi.org/10.1093/sf/soaf243"
+    },
+    {
+      "type": "article",
+      "title": "Later life social interactions in community spaces",
+      "authors": "Maleah Fekete, Tianyao Qu, Brea L Perry, Siyun Peng, and Adam R Roth",
+      "snippet": "Daily social interactions provide access to key social resources, yet little research has examined how these interactions vary across geographic space—particularly in later life. Using ecological momentary assessment data from a state-representative study of older adults in Indiana, we examine how interactions with different partners vary across a continuum of municipality population density.",
+      "doi_url": "doi.org/10.1093/sf/soag088",
       "pub_date": "2026-07-07"
     },
     {
@@ -27,11 +60,11 @@
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "1",
-      "title": "Roles in Sociological Field Observations",
-      "authors": "R. L. Gold",
+      "rank": "2",
+      "title": "Conceptualizing Political Opportunity",
+      "authors": "D. S. Meyer and D. C. Minkoff",
       "snippet": "",
-      "doi_url": "doi.org/10.2307/2573808"
+      "doi_url": "doi.org/10.1353/sof.2004.0082"
     },
     {
       "type": "finding",
@@ -42,11 +75,11 @@
     },
     {
       "type": "article",
-      "title": "Later life social interactions in community spaces",
-      "authors": "Maleah Fekete, Tianyao Qu, Brea L Perry, Siyun Peng, and Adam R Roth",
-      "snippet": "Daily social interactions provide access to key social resources, yet little research has examined how these interactions vary across geographic space—particularly in later life. Using ecological momentary assessment data from a state-representative study of older adults in Indiana, we examine how interactions with different partners vary across a continuum of municipality population density.",
-      "doi_url": "doi.org/10.1093/sf/soag088",
-      "pub_date": "2026-07-07"
+      "title": "Paving the way: redlining and contemporary transportation emissions in US cities",
+      "authors": "Rachel McKane and Patrick Trent Greiner",
+      "snippet": "We expand upon the structural human ecology tradition by recasting its classic drivers as historically racialized mechanisms operating within a system of racial capitalism. We draw on critical approaches to environmental justice to link multiscalar processes to material infrastructures, theorizing redlining and interstate-highway planning as coupled racial projects that organize the production of transportation emissions across urban space.",
+      "doi_url": "doi.org/10.1093/sf/soag083",
+      "pub_date": "2026-07-06"
     },
     {
       "type": "book_review",
@@ -60,11 +93,11 @@
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "2",
-      "title": "Conceptualizing Political Opportunity",
-      "authors": "D. S. Meyer and D. C. Minkoff",
+      "rank": "3",
+      "title": "Housework: Who Did, Does or Will Do It, and How Much Does It Matter?",
+      "authors": "S. M. Bianchi, L. C. Sayer, M. A. Milkie, and J. P. Robinson",
       "snippet": "",
-      "doi_url": "doi.org/10.1353/sof.2004.0082"
+      "doi_url": "doi.org/10.1093/sf/sos120"
     },
     {
       "type": "finding",
@@ -75,10 +108,10 @@
     },
     {
       "type": "article",
-      "title": "Paving the way: redlining and contemporary transportation emissions in US cities",
-      "authors": "Rachel McKane and Patrick Trent Greiner",
-      "snippet": "We expand upon the structural human ecology tradition by recasting its classic drivers as historically racialized mechanisms operating within a system of racial capitalism. We draw on critical approaches to environmental justice to link multiscalar processes to material infrastructures, theorizing redlining and interstate-highway planning as coupled racial projects that organize the production of transportation emissions across urban space.",
-      "doi_url": "doi.org/10.1093/sf/soag083",
+      "title": "Job precarity and earnings inequality in contemporary China",
+      "authors": "Zhipeng Zhou",
+      "snippet": "Job precarity is a core mechanism of workplace inequality that underlies economic segmentation between organizational insiders and outsiders. Yet less is known about how institutional contexts affect dual employment arrangements that create differential rewards between long-term and short-term workers.",
+      "doi_url": "doi.org/10.1093/sf/soag087",
       "pub_date": "2026-07-06"
     },
     {
@@ -93,11 +126,11 @@
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "3",
-      "title": "Housework: Who Did, Does or Will Do It, and How Much Does It Matter?",
-      "authors": "S. M. Bianchi, L. C. Sayer, M. A. Milkie, and J. P. Robinson",
+      "rank": "4",
+      "title": "Anti-Immigrant Prejudice in Europe: Contact, Threat Perception, and Preferences for the Exclusion of Migrants",
+      "authors": "L. M. McLaren",
       "snippet": "",
-      "doi_url": "doi.org/10.1093/sf/sos120"
+      "doi_url": "doi.org/10.1353/sof.2003.0038"
     },
     {
       "type": "finding",
@@ -108,11 +141,11 @@
     },
     {
       "type": "article",
-      "title": "Job precarity and earnings inequality in contemporary China",
-      "authors": "Zhipeng Zhou",
-      "snippet": "Job precarity is a core mechanism of workplace inequality that underlies economic segmentation between organizational insiders and outsiders. Yet less is known about how institutional contexts affect dual employment arrangements that create differential rewards between long-term and short-term workers.",
-      "doi_url": "doi.org/10.1093/sf/soag087",
-      "pub_date": "2026-07-06"
+      "title": "A work of discernment: the co-construction of environmental expertise among agroecology farmers",
+      "authors": "Agueda Ortega",
+      "snippet": "Agroecology—a food production and consumption model that integrates ecological, social, and economic sustainability principles—underwent a period of significant growth in recent years in Argentina. Acquiring specialized knowledge about agroecology practices is a priority for farmers who pursue socio-environmental goals, but the process for building such expertise is not clearly laid out.",
+      "doi_url": "doi.org/10.1093/sf/soag085",
+      "pub_date": "2026-07-01"
     },
     {
       "type": "book_review",
@@ -126,11 +159,11 @@
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "4",
-      "title": "Anti-Immigrant Prejudice in Europe: Contact, Threat Perception, and Preferences for the Exclusion of Migrants",
-      "authors": "L. M. McLaren",
+      "rank": "5",
+      "title": "Feminist Attitudes and Support for Gender Equality: Opinion Change in Women and Men, 1974-1998",
+      "authors": "C. I. Bolzendahl and D. J. Myers",
       "snippet": "",
-      "doi_url": "doi.org/10.1353/sof.2003.0038"
+      "doi_url": "doi.org/10.1353/sof.2005.0005"
     },
     {
       "type": "finding",
@@ -141,10 +174,10 @@
     },
     {
       "type": "article",
-      "title": "A work of discernment: the co-construction of environmental expertise among agroecology farmers",
-      "authors": "Agueda Ortega",
-      "snippet": "Agroecology—a food production and consumption model that integrates ecological, social, and economic sustainability principles—underwent a period of significant growth in recent years in Argentina. Acquiring specialized knowledge about agroecology practices is a priority for farmers who pursue socio-environmental goals, but the process for building such expertise is not clearly laid out.",
-      "doi_url": "doi.org/10.1093/sf/soag085",
+      "title": "For what benefit? State Right to Work laws and employer-provided retirement and health insurance benefits",
+      "authors": "Alec P Rhodes",
+      "snippet": "Employer-provided benefits add to total compensation and enhance economic security. Yet an increasing share of American workers lack access to employer-provided retirement and health insurance benefits, a trend that scholars link to labor union decline.",
+      "doi_url": "doi.org/10.1093/sf/soag086",
       "pub_date": "2026-07-01"
     },
     {
@@ -158,12 +191,12 @@
     },
     {
       "type": "classic",
-      "source": "most_cited",
-      "rank": "5",
-      "title": "Feminist Attitudes and Support for Gender Equality: Opinion Change in Women and Men, 1974-1998",
-      "authors": "C. I. Bolzendahl and D. J. Myers",
-      "snippet": "",
-      "doi_url": "doi.org/10.1353/sof.2005.0005"
+      "source": "most_read",
+      "rank": "1",
+      "title": "Narrations of non-motherhood: how context shapes what it means to be childless in the United States and Japan",
+      "authors": "Holly Hummer",
+      "snippet": "In our era of low fertility rates, much research has examined factors behind delayed childbearing and childlessness. While scholars emphasize the role of macro-level context in constraining reproductive decision-making, less attention has been paid to how context shapes what it means, subjectively, to remain childless today.",
+      "doi_url": "doi.org/10.1093/sf/soag026"
     },
     {
       "type": "finding",
@@ -174,11 +207,11 @@
     },
     {
       "type": "article",
-      "title": "For what benefit? State Right to Work laws and employer-provided retirement and health insurance benefits",
-      "authors": "Alec P Rhodes",
-      "snippet": "Employer-provided benefits add to total compensation and enhance economic security. Yet an increasing share of American workers lack access to employer-provided retirement and health insurance benefits, a trend that scholars link to labor union decline.",
-      "doi_url": "doi.org/10.1093/sf/soag086",
-      "pub_date": "2026-07-01"
+      "title": "Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations",
+      "authors": "Amanda B Cox",
+      "snippet": "Participatory-democratic organizations seek to redistribute decision-making authority, but doing so raises a practical question: how do participants learn to exercise that authority in nonhierarchical, collective ways? This paper theorizes how participatory-democratic organizations address what I term the collective-practice gap: the gap between the individualistic capacities shaped in hierarchical institutions and the relational, participatory capacities required for nonhierarchical, collective participation.",
+      "doi_url": "doi.org/10.1093/sf/soag076",
+      "pub_date": "2026-06-29"
     },
     {
       "type": "book_review",
@@ -192,11 +225,11 @@
     {
       "type": "classic",
       "source": "most_read",
-      "rank": "1",
-      "title": "Narrations of non-motherhood: how context shapes what it means to be childless in the United States and Japan",
-      "authors": "Holly Hummer",
-      "snippet": "In our era of low fertility rates, much research has examined factors behind delayed childbearing and childlessness. While scholars emphasize the role of macro-level context in constraining reproductive decision-making, less attention has been paid to how context shapes what it means, subjectively, to remain childless today.",
-      "doi_url": "doi.org/10.1093/sf/soag026"
+      "rank": "2",
+      "title": "The global rise in children’s attention-deficit/hyperactivity disorder prevalence: a macro-sociological explanation",
+      "authors": "Irem Tuncer-Ebetürk, Jessica Kim, and Yasemin Nuhoğlu Soysal",
+      "snippet": "In the past three decades, the global diagnosis rate of attention-deficit/hyperactivity disorder (ADHD) has grown drastically. While existing sociological studies demonstrate the complexity of ADHD diagnoses and treatment in specific national contexts, their ability to explain ADHD’s global growth is limited.",
+      "doi_url": "doi.org/10.1093/sf/soaf153"
     },
     {
       "type": "finding",
@@ -207,11 +240,11 @@
     },
     {
       "type": "article",
-      "title": "Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations",
-      "authors": "Amanda B Cox",
-      "snippet": "Participatory-democratic organizations seek to redistribute decision-making authority, but doing so raises a practical question: how do participants learn to exercise that authority in nonhierarchical, collective ways? This paper theorizes how participatory-democratic organizations address what I term the collective-practice gap: the gap between the individualistic capacities shaped in hierarchical institutions and the relational, participatory capacities required for nonhierarchical, collective participation.",
-      "doi_url": "doi.org/10.1093/sf/soag076",
-      "pub_date": "2026-06-29"
+      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
+      "authors": "Kim Stienstra",
+      "snippet": "Are differences in educational performance between pupils at the start of schooling—and their underlying genetic and environmental sources—reproduced, accumulated, or compensated over the primary school career? I investigate this using reading comprehension and mathematics test scores of over 4,000 same-sex and opposite-sex twin pairs, identified in the Netherlands Cohort Study on Education (Grades 1–5).",
+      "doi_url": "doi.org/10.1093/sf/soag077",
+      "pub_date": "2026-06-24"
     },
     {
       "type": "book_review",
@@ -225,39 +258,6 @@
     {
       "type": "classic",
       "source": "most_read",
-      "rank": "2",
-      "title": "The global rise in children’s attention-deficit/hyperactivity disorder prevalence: a macro-sociological explanation",
-      "authors": "Irem Tuncer-Ebetürk, Jessica Kim, and Yasemin Nuhoğlu Soysal",
-      "snippet": "In the past three decades, the global diagnosis rate of attention-deficit/hyperactivity disorder (ADHD) has grown drastically. While existing sociological studies demonstrate the complexity of ADHD diagnoses and treatment in specific national contexts, their ability to explain ADHD’s global growth is limited.",
-      "doi_url": "doi.org/10.1093/sf/soaf153"
-    },
-    {
-      "type": "finding",
-      "hook": "You'd expect that telling employers a minority group is equally productive would cut hiring bias. It didn't. Only individual proof of qualification erased it; the group message wiped out even that.",
-      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
-      "authors": "Akira Igarashi and Susumu Cato",
-      "doi_url": "doi.org/10.1093/sf/soag072"
-    },
-    {
-      "type": "article",
-      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
-      "authors": "Kim Stienstra",
-      "snippet": "Are differences in educational performance between pupils at the start of schooling—and their underlying genetic and environmental sources—reproduced, accumulated, or compensated over the primary school career? I investigate this using reading comprehension and mathematics test scores of over 4,000 same-sex and opposite-sex twin pairs, identified in the Netherlands Cohort Study on Education (Grades 1–5).",
-      "doi_url": "doi.org/10.1093/sf/soag077",
-      "pub_date": "2026-06-24"
-    },
-    {
-      "type": "book_review",
-      "book_title": "Behind the Startup: How Venture Capital Shapes Work, Innovation, and Inequality",
-      "book_author": "",
-      "book_year": "",
-      "reviewer": "",
-      "doi_url": "doi.org/10.1093/sf/soag014",
-      "cover": ""
-    },
-    {
-      "type": "classic",
-      "source": "most_read",
       "rank": "3",
       "title": "Colonial legacy and contemporary civil violence: a global study from 1960 to 2018",
       "authors": "Christopher Kollmeyer",
@@ -266,10 +266,10 @@
     },
     {
       "type": "finding",
-      "hook": "More low-income women finish college than ever, which reads as progress. But caretaking, work, and coursework pull at once, and they interrupt college more than low-income men or richer women.",
-      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
-      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
-      "doi_url": "doi.org/10.1093/sf/soag068"
+      "hook": "You'd expect that telling employers a minority group is equally productive would cut hiring bias. It didn't. Only individual proof of qualification erased it; the group message wiped out even that.",
+      "title": "Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?",
+      "authors": "Akira Igarashi and Susumu Cato",
+      "doi_url": "doi.org/10.1093/sf/soag072"
     },
     {
       "type": "article",
@@ -281,10 +281,10 @@
     },
     {
       "type": "finding",
-      "hook": "Primary school is supposed to close early gaps. It only half does: reading and math gaps from the starting line shrink, but new gaps in how fast children learn widen total inequality.",
-      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
-      "authors": "Kim Stienstra",
-      "doi_url": "doi.org/10.1093/sf/soag077"
+      "hook": "More low-income women finish college than ever, which reads as progress. But caretaking, work, and coursework pull at once, and they interrupt college more than low-income men or richer women.",
+      "title": "The triple burden: low-SES women and the binds of caretaking, work, and college",
+      "authors": "Kaylee T Matheny, Ilana M Horwitz, and Natalie Milan",
+      "doi_url": "doi.org/10.1093/sf/soag068"
     },
     {
       "type": "article",
@@ -296,10 +296,10 @@
     },
     {
       "type": "finding",
-      "hook": "Whether workers see a boss as legitimate depends not just on how the boss treats them but on what coworkers think. Peer approval outweighs the higher-ups'.",
-      "title": "The bases of propriety: instrumental, relational, moral, and collective",
-      "authors": "Kate Hawks, Cathryn Johnson, Karen A Hegtvedt, and Ryan Gibson",
-      "doi_url": "doi.org/10.1093/sf/soag004"
+      "hook": "Primary school is supposed to close early gaps. It only half does: reading and math gaps from the starting line shrink, but new gaps in how fast children learn widen total inequality.",
+      "title": "The development of inequality during primary education: investigating the genetic and environmental sources underlying learning differences",
+      "authors": "Kim Stienstra",
+      "doi_url": "doi.org/10.1093/sf/soag077"
     },
     {
       "type": "article",
@@ -311,10 +311,10 @@
     },
     {
       "type": "finding",
-      "hook": "Asylum officers give more weight to claims that move them emotionally, often regardless of an applicant's background or the formal merits of the case.",
-      "title": "Seeking meaning in US asylum adjudications: aspirations, affect, and morality on the frontlines of the state",
-      "authors": "Talia Shiff",
-      "doi_url": "doi.org/10.1093/sf/soag007"
+      "hook": "Whether workers see a boss as legitimate depends not just on how the boss treats them but on what coworkers think. Peer approval outweighs the higher-ups'.",
+      "title": "The bases of propriety: instrumental, relational, moral, and collective",
+      "authors": "Kate Hawks, Cathryn Johnson, Karen A Hegtvedt, and Ryan Gibson",
+      "doi_url": "doi.org/10.1093/sf/soag004"
     },
     {
       "type": "article",
@@ -326,17 +326,17 @@
     },
     {
       "type": "finding",
+      "hook": "Asylum officers give more weight to claims that move them emotionally, often regardless of an applicant's background or the formal merits of the case.",
+      "title": "Seeking meaning in US asylum adjudications: aspirations, affect, and morality on the frontlines of the state",
+      "authors": "Talia Shiff",
+      "doi_url": "doi.org/10.1093/sf/soag007"
+    },
+    {
+      "type": "finding",
       "hook": "Most people think siblings should inherit equally. The wealthy make an exception: they accept giving one child more to keep a family business intact.",
       "title": "The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families",
       "authors": "Nhat An Trinh, Daria Tisch, and Manuel Schechtl",
       "doi_url": "doi.org/10.1093/sf/soag010"
-    },
-    {
-      "type": "finding",
-      "hook": "Jobs filled by people from privileged backgrounds pay more. And within those jobs, workers from upper-class families earn even more than their peers.",
-      "title": "Class origin closure: economic advantages of occupational elitism",
-      "authors": "Dirk Witteveen",
-      "doi_url": "doi.org/10.1093/sf/soag012"
     }
   ]
 }

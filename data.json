@@ -2,18 +2,18 @@
   "slides": [
     {
       "type": "finding",
-      "hook": "[HOOK — SHAPE=question: Open with the study's central question, then answer it plainly. 80–180 chars; no emoji, no byline, no URL]",
-      "title": "Framing inclusion: discursive logics of entitlement in immigrant social rights advocacy",
-      "authors": "Mara Junge",
-      "doi_url": "doi.org/10.1093/sf/soag082"
+      "hook": "Whiteness pays multiracial young adults the usual social wages. But those wages come bundled with a racial tax that monoracial Whites never face.",
+      "title": "Multiracial young adults’ experiences of Whiteness as a wage and tax",
+      "authors": "Monica Heilman",
+      "doi_url": "doi.org/10.1093/sf/soag118"
     },
     {
       "type": "article",
-      "title": "Having a child through medically assisted reproduction: a social stratification perspective",
-      "authors": "Alice Goisis, Alina Pelikh, Maria Palma, Pekka Martikainen, and 2 others",
-      "snippet": "Prior research documents marked social disparities in births through medically assisted reproduction (MAR), which are often attributed to unequal access to treatment. However, social inequalities may also arise from processes operating after MAR treatments begin.",
-      "doi_url": "doi.org/10.1093/sf/soag100",
-      "pub_date": "2026-08-06"
+      "title": "Multiracial young adults’ experiences of Whiteness as a wage and tax",
+      "authors": "Monica Heilman",
+      "snippet": "Debates persist on the racial position of multiracial Americans, namely whether this population will “become White” or not. However, the premise of this question is predicated on a monoracial paradigm of race that cannot fully account for the experiences of multiracial individuals.",
+      "doi_url": "doi.org/10.1093/sf/soag118",
+      "pub_date": "2026-08-16"
     },
     {
       "type": "book_review",
@@ -36,17 +36,17 @@
     {
       "type": "finding",
       "hook": "[HOOK — SHAPE=question: Open with the study's central question, then answer it plainly. 80–180 chars; no emoji, no byline, no URL]",
-      "title": "Racism and parent stress in the context of police violence",
-      "authors": "Ann Meier, Claire Kamp Dush, Alexandra VanBergen, Sierra Clark, and 2 others",
-      "doi_url": "doi.org/10.1093/sf/soag101"
+      "title": "Framing inclusion: discursive logics of entitlement in immigrant social rights advocacy",
+      "authors": "Mara Junge",
+      "doi_url": "doi.org/10.1093/sf/soag082"
     },
     {
       "type": "article",
-      "title": "Racism and parent stress in the context of police violence",
-      "authors": "Ann Meier, Claire Kamp Dush, Alexandra VanBergen, Sierra Clark, and 2 others",
-      "snippet": "This project assessed parental stress in 2020 and 2021 during a period of racial trauma marked by high-profile, race-motivated murders of people of color. We leveraged the Contextual Model of Family Stress Re-Imaged to understand parents’ stress about children’s interactions with police in the context of racism.",
-      "doi_url": "doi.org/10.1093/sf/soag101",
-      "pub_date": "2026-08-04"
+      "title": "Explaining gendered language through embedding approximation: how “stupid” became a man’s word",
+      "authors": "Yutong Zhu",
+      "snippet": "Recent advances in word embedding have reinvigorated macro-historical cultural analysis based on empirical data. However, these methods primarily model the semantic structure of language, which can obscure the pragmatic dimension of language use central to sociology.",
+      "doi_url": "doi.org/10.1093/sf/soag103",
+      "pub_date": "2026-08-16"
     },
     {
       "type": "book_review",
@@ -69,17 +69,17 @@
     {
       "type": "finding",
       "hook": "[HOOK — SHAPE=question: Open with the study's central question, then answer it plainly. 80–180 chars; no emoji, no byline, no URL]",
-      "title": "Having a child through medically assisted reproduction: a social stratification perspective",
-      "authors": "Alice Goisis, Alina Pelikh, Maria Palma, Pekka Martikainen, and 2 others",
-      "doi_url": "doi.org/10.1093/sf/soag100"
+      "title": "Racism and parent stress in the context of police violence",
+      "authors": "Ann Meier, Claire Kamp Dush, Alexandra VanBergen, Sierra Clark, and 2 others",
+      "doi_url": "doi.org/10.1093/sf/soag101"
     },
     {
       "type": "article",
-      "title": "Framing inclusion: discursive logics of entitlement in immigrant social rights advocacy",
-      "authors": "Mara Junge",
-      "snippet": "This article investigates how civil society organizations (CSOs) advocate for immigrant access to social assistance in politically charged environments. It explores whether the frame choices of CSOs are shaped by their relationships with government bodies and examines the implications of these narratives for representing a highly diverse group of non-citizens.",
-      "doi_url": "doi.org/10.1093/sf/soag082",
-      "pub_date": "2026-07-31"
+      "title": "Festivalized marriage as a Time Threshold: Spring Festival bottlenecks, Qualification Audits, and escalating entry standards in rural China",
+      "authors": "Yong Yu, Keke Qin, Wenzhao Huang, and Shishi Tang",
+      "snippet": "When do institutional calendars become stratifying devices rather than neutral schedules of action? Drawing on two Spring Festival windows in villages under Yingchunting Subdistrict, Wugang, Hunan, this article shows that rural bachelors’ marriage seeking becomes festivalized: compressed into a recurrent return window where families, matchmakers, and prospective spouses assemble evidence, compare candidates, and clear outcomes before migrants disperse.",
+      "doi_url": "doi.org/10.1093/sf/soag108",
+      "pub_date": "2026-08-16"
     },
     {
       "type": "book_review",
@@ -101,18 +101,18 @@
     },
     {
       "type": "finding",
-      "hook": "When more people earn college degrees, do graduates land jobs that use their major? It depends: matches improve for economics and math, but worsen for the sciences and philosophy.",
-      "title": "University expansion, academic fields, and the match between the degree and the job",
-      "authors": "Jonathan Horowitz and Sagi Ramaj",
-      "doi_url": "doi.org/10.1093/sf/soag096"
+      "hook": "[HOOK — SHAPE=question: Open with the study's central question, then answer it plainly. 80–180 chars; no emoji, no byline, no URL]",
+      "title": "Having a child through medically assisted reproduction: a social stratification perspective",
+      "authors": "Alice Goisis, Alina Pelikh, Maria Palma, Pekka Martikainen, and 2 others",
+      "doi_url": "doi.org/10.1093/sf/soag100"
     },
     {
       "type": "article",
-      "title": "The stalled gender housework revolution in the United States",
-      "authors": "Patrick Ishizuka",
-      "snippet": "Prior studies document a declining but persistent gender housework gap since the 1960s, with declines in women’s housework time far exceeding increases in men’s. Yet scholars differ in their assessment of what these trends mean about the pace and extent of gendered change in family life.",
-      "doi_url": "doi.org/10.1093/sf/soag098",
-      "pub_date": "2026-07-23"
+      "title": "Integrating or segregating? Gentrification, the changing city-suburb divide, and black exceptionalism",
+      "authors": "Jackelyn Hwang, Elizabeth Roberto, Francine I Stephens, and Jacob S Rugh",
+      "snippet": "Racial residential segregation has been pivotal in maintaining racial inequality following the Civil Rights Era. The transformation of cities by the spread of gentrification in recent decades may have mitigated these longstanding divisions or reproduced them as gentrification reorganizes residential patterns across urban space.",
+      "doi_url": "doi.org/10.1093/sf/soag102",
+      "pub_date": "2026-08-11"
     },
     {
       "type": "book_review",
@@ -134,18 +134,18 @@
     },
     {
       "type": "finding",
-      "hook": "Does a freer market always punish short-term workers? In China, not in the state sector, where marketization shrinks the pay penalty for temporary jobs. In private firms it grows.",
-      "title": "Job precarity and earnings inequality in contemporary China",
-      "authors": "Zhipeng Zhou",
-      "doi_url": "doi.org/10.1093/sf/soag087"
+      "hook": "When more people earn college degrees, do graduates land jobs that use their major? It depends: matches improve for economics and math, but worsen for the sciences and philosophy.",
+      "title": "University expansion, academic fields, and the match between the degree and the job",
+      "authors": "Jonathan Horowitz and Sagi Ramaj",
+      "doi_url": "doi.org/10.1093/sf/soag096"
     },
     {
       "type": "article",
-      "title": "Fair and luck egalitarian inequality of opportunity",
-      "authors": "Michael Grätz and Alicia García-Sierra",
-      "snippet": "Different conceptions of inequality of opportunity have been developed in political philosophy. We focus on two competing conceptions: fair and luck egalitarian inequality of opportunity.",
-      "doi_url": "doi.org/10.1093/sf/soag099",
-      "pub_date": "2026-07-21"
+      "title": "Having a child through medically assisted reproduction: a social stratification perspective",
+      "authors": "Alice Goisis, Alina Pelikh, Maria Palma, Pekka Martikainen, and 2 others",
+      "snippet": "Prior research documents marked social disparities in births through medically assisted reproduction (MAR), which are often attributed to unequal access to treatment. However, social inequalities may also arise from processes operating after MAR treatments begin.",
+      "doi_url": "doi.org/10.1093/sf/soag100",
+      "pub_date": "2026-08-06"
     },
     {
       "type": "book_review",
@@ -167,18 +167,18 @@
     },
     {
       "type": "finding",
-      "hook": "Highways were routed through neighborhoods the government had already graded red. Eighty years on, those blocks still carry the heaviest traffic emissions, whoever lives there now.",
-      "title": "Paving the way: redlining and contemporary transportation emissions in US cities",
-      "authors": "Rachel McKane and Patrick Trent Greiner",
-      "doi_url": "doi.org/10.1093/sf/soag083"
+      "hook": "Does a freer market always punish short-term workers? In China, not in the state sector, where marketization shrinks the pay penalty for temporary jobs. In private firms it grows.",
+      "title": "Job precarity and earnings inequality in contemporary China",
+      "authors": "Zhipeng Zhou",
+      "doi_url": "doi.org/10.1093/sf/soag087"
     },
     {
       "type": "article",
-      "title": "The magic of secularization",
-      "authors": "Paul Froese, Isaiah King, and Ruiqian Li",
-      "snippet": "Institutional secularization does not necessitate a secular public. In fact, as church memberships decline, more individualized sources of supernatural belief can emerge.",
-      "doi_url": "doi.org/10.1093/sf/soag097",
-      "pub_date": "2026-07-20"
+      "title": "Racism and parent stress in the context of police violence",
+      "authors": "Ann Meier, Claire Kamp Dush, Alexandra VanBergen, Sierra Clark, and 2 others",
+      "snippet": "This project assessed parental stress in 2020 and 2021 during a period of racial trauma marked by high-profile, race-motivated murders of people of color. We leveraged the Contextual Model of Family Stress Re-Imaged to understand parents’ stress about children’s interactions with police in the context of racism.",
+      "doi_url": "doi.org/10.1093/sf/soag101",
+      "pub_date": "2026-08-04"
     },
     {
       "type": "book_review",
@@ -200,18 +200,18 @@
     },
     {
       "type": "finding",
-      "hook": "Loneliness in later life is a health risk, and geography helps set it. Older adults in denser places spend more time alone and less with kin, even in their free hours.",
-      "title": "Later life social interactions in community spaces",
-      "authors": "Maleah Fekete, Tianyao Qu, Brea L Perry, Siyun Peng, and Adam R Roth",
-      "doi_url": "doi.org/10.1093/sf/soag088"
+      "hook": "Highways were routed through neighborhoods the government had already graded red. Eighty years on, those blocks still carry the heaviest traffic emissions, whoever lives there now.",
+      "title": "Paving the way: redlining and contemporary transportation emissions in US cities",
+      "authors": "Rachel McKane and Patrick Trent Greiner",
+      "doi_url": "doi.org/10.1093/sf/soag083"
     },
     {
       "type": "article",
-      "title": "University expansion, academic fields, and the match between the degree and the job",
-      "authors": "Jonathan Horowitz and Sagi Ramaj",
-      "snippet": "Academic knowledge—such as biology, psychology, and economics—is found both in university majors and specific occupations. When educational attainment expands in the population, does it improve or weaken the academic match between university majors and occupations?",
-      "doi_url": "doi.org/10.1093/sf/soag096",
-      "pub_date": "2026-07-20"
+      "title": "Framing inclusion: discursive logics of entitlement in immigrant social rights advocacy",
+      "authors": "Mara Junge",
+      "snippet": "This article investigates how civil society organizations (CSOs) advocate for immigrant access to social assistance in politically charged environments. It explores whether the frame choices of CSOs are shaped by their relationships with government bodies and examines the implications of these narratives for representing a highly diverse group of non-citizens.",
+      "doi_url": "doi.org/10.1093/sf/soag082",
+      "pub_date": "2026-07-31"
     },
     {
       "type": "book_review",
@@ -233,18 +233,18 @@
     },
     {
       "type": "finding",
-      "hook": "Does sending more people to college make a society believe in merit? Across thirty countries, yes. But it also widens the gap between graduates and everyone else in who buys that.",
-      "title": "Higher education expansion and attainment gaps in meritocratic beliefs",
-      "authors": "Angran Li and Minghao Tang",
-      "doi_url": "doi.org/10.1093/sf/soag089"
+      "hook": "Loneliness in later life is a health risk, and geography helps set it. Older adults in denser places spend more time alone and less with kin, even in their free hours.",
+      "title": "Later life social interactions in community spaces",
+      "authors": "Maleah Fekete, Tianyao Qu, Brea L Perry, Siyun Peng, and Adam R Roth",
+      "doi_url": "doi.org/10.1093/sf/soag088"
     },
     {
       "type": "article",
-      "title": "Higher education expansion and attainment gaps in meritocratic beliefs",
-      "authors": "Angran Li and Minghao Tang",
-      "snippet": "Over the past decades, higher education has expanded dramatically worldwide, yet how this transformation shapes public beliefs in meritocracy remains underexplored. This study examines how the expansion of higher education has shaped public beliefs in meritocracy across thirty Western countries.",
-      "doi_url": "doi.org/10.1093/sf/soag089",
-      "pub_date": "2026-07-07"
+      "title": "The stalled gender housework revolution in the United States",
+      "authors": "Patrick Ishizuka",
+      "snippet": "Prior studies document a declining but persistent gender housework gap since the 1960s, with declines in women’s housework time far exceeding increases in men’s. Yet scholars differ in their assessment of what these trends mean about the pace and extent of gendered change in family life.",
+      "doi_url": "doi.org/10.1093/sf/soag098",
+      "pub_date": "2026-07-23"
     },
     {
       "type": "book_review",
@@ -266,6 +266,21 @@
     },
     {
       "type": "finding",
+      "hook": "Does sending more people to college make a society believe in merit? Across thirty countries, yes. But it also widens the gap between graduates and everyone else in who buys that.",
+      "title": "Higher education expansion and attainment gaps in meritocratic beliefs",
+      "authors": "Angran Li and Minghao Tang",
+      "doi_url": "doi.org/10.1093/sf/soag089"
+    },
+    {
+      "type": "article",
+      "title": "Fair and luck egalitarian inequality of opportunity",
+      "authors": "Michael Grätz and Alicia García-Sierra",
+      "snippet": "Different conceptions of inequality of opportunity have been developed in political philosophy. We focus on two competing conceptions: fair and luck egalitarian inequality of opportunity.",
+      "doi_url": "doi.org/10.1093/sf/soag099",
+      "pub_date": "2026-07-21"
+    },
+    {
+      "type": "finding",
       "hook": "Who has to prove they can do the job? White men are hired on assumed ability; Black men, Black women, and White women must match every requirement to get the same shot.",
       "title": "An imperfect match? gender and racial discrimination in hiring and applicant-job requirement matching as an unequal burden of proof",
       "authors": "Koji Chavez, Katherine Weisshaar, and Tania Hutt",
@@ -273,11 +288,11 @@
     },
     {
       "type": "article",
-      "title": "Later life social interactions in community spaces",
-      "authors": "Maleah Fekete, Tianyao Qu, Brea L Perry, Siyun Peng, and Adam R Roth",
-      "snippet": "Daily social interactions provide access to key social resources, yet little research has examined how these interactions vary across geographic space—particularly in later life. Using ecological momentary assessment data from a state-representative study of older adults in Indiana, we examine how interactions with different partners vary across a continuum of municipality population density.",
-      "doi_url": "doi.org/10.1093/sf/soag088",
-      "pub_date": "2026-07-07"
+      "title": "The magic of secularization",
+      "authors": "Paul Froese, Isaiah King, and Ruiqian Li",
+      "snippet": "Institutional secularization does not necessitate a secular public. In fact, as church memberships decline, more individualized sources of supernatural belief can emerge.",
+      "doi_url": "doi.org/10.1093/sf/soag097",
+      "pub_date": "2026-07-20"
     },
     {
       "type": "finding",
@@ -288,11 +303,11 @@
     },
     {
       "type": "article",
-      "title": "Paving the way: redlining and contemporary transportation emissions in US cities",
-      "authors": "Rachel McKane and Patrick Trent Greiner",
-      "snippet": "We expand upon the structural human ecology tradition by recasting its classic drivers as historically racialized mechanisms operating within a system of racial capitalism. We draw on critical approaches to environmental justice to link multiscalar processes to material infrastructures, theorizing redlining and interstate-highway planning as coupled racial projects that organize the production of transportation emissions across urban space.",
-      "doi_url": "doi.org/10.1093/sf/soag083",
-      "pub_date": "2026-07-06"
+      "title": "University expansion, academic fields, and the match between the degree and the job",
+      "authors": "Jonathan Horowitz and Sagi Ramaj",
+      "snippet": "Academic knowledge—such as biology, psychology, and economics—is found both in university majors and specific occupations. When educational attainment expands in the population, does it improve or weaken the academic match between university majors and occupations?",
+      "doi_url": "doi.org/10.1093/sf/soag096",
+      "pub_date": "2026-07-20"
     },
     {
       "type": "finding",
@@ -303,11 +318,11 @@
     },
     {
       "type": "article",
-      "title": "Job precarity and earnings inequality in contemporary China",
-      "authors": "Zhipeng Zhou",
-      "snippet": "Job precarity is a core mechanism of workplace inequality that underlies economic segmentation between organizational insiders and outsiders. Yet less is known about how institutional contexts affect dual employment arrangements that create differential rewards between long-term and short-term workers.",
-      "doi_url": "doi.org/10.1093/sf/soag087",
-      "pub_date": "2026-07-06"
+      "title": "Higher education expansion and attainment gaps in meritocratic beliefs",
+      "authors": "Angran Li and Minghao Tang",
+      "snippet": "Over the past decades, higher education has expanded dramatically worldwide, yet how this transformation shapes public beliefs in meritocracy remains underexplored. This study examines how the expansion of higher education has shaped public beliefs in meritocracy across thirty Western countries.",
+      "doi_url": "doi.org/10.1093/sf/soag089",
+      "pub_date": "2026-07-07"
     },
     {
       "type": "finding",
@@ -317,26 +332,11 @@
       "doi_url": "doi.org/10.1093/sf/soag086"
     },
     {
-      "type": "article",
-      "title": "A work of discernment: the co-construction of environmental expertise among agroecology farmers",
-      "authors": "Agueda Ortega",
-      "snippet": "Agroecology—a food production and consumption model that integrates ecological, social, and economic sustainability principles—underwent a period of significant growth in recent years in Argentina. Acquiring specialized knowledge about agroecology practices is a priority for farmers who pursue socio-environmental goals, but the process for building such expertise is not clearly laid out.",
-      "doi_url": "doi.org/10.1093/sf/soag085",
-      "pub_date": "2026-07-01"
-    },
-    {
       "type": "finding",
       "hook": "What builds expertise among Argentina's agroecology farmers isn't official training. It's discernment, weighing state advice against their own goals, keeping what fits and dropping what serves agribusiness.",
       "title": "A work of discernment: the co-construction of environmental expertise among agroecology farmers",
       "authors": "Agueda Ortega",
       "doi_url": "doi.org/10.1093/sf/soag085"
-    },
-    {
-      "type": "finding",
-      "hook": "Environmental racism is often treated as recent. But in six US cities from 1880 to 1930, racialized neighborhoods already faced steadily rising industrial pollution, so it took root far earlier than thought.",
-      "title": "Environment and the racialization of space in US cities",
-      "authors": "Jonathan Tollefson",
-      "doi_url": "doi.org/10.1093/sf/soag001"
     }
   ]
 }

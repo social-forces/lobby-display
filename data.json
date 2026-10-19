@@ -2,18 +2,18 @@
   "slides": [
     {
       "type": "finding",
-      "hook": "What keeps racial exclusion alive in former sundown towns isn't just time. It's a 1920s Klan presence that shaped White residents' attitudes and who chose to stay or move in.",
-      "title": "On legacy persistence: historical KKK organizations and racial exclusion in American sundown towns",
-      "authors": "Kunyuan Qiao, Ashley V Reichelmann, and Matthew O Hunt",
-      "doi_url": "doi.org/10.1093/sf/soag142"
+      "hook": "Remote work is usually pitched as a perk for younger workers. But older Britons who work from home plan to retire later, and the link is strongest for women.",
+      "title": "Working from home among older adults in the UK: examining its link to labor market exit intentions and expected retirement age",
+      "authors": "Yanan Zhang, Sarah Harper, Senhu Wang, and Bing Gong",
+      "doi_url": "doi.org/10.1093/sf/soag123"
     },
     {
       "type": "article",
-      "title": "Populism as a problem of social segregation: socioeconomic composition of personal networks and populist voting",
-      "authors": "Bernardo Mackenna, Ricardo González, Adolfo Fuentes, and Esteban Muñoz",
-      "snippet": "Responding to recent calls to understand populism as a problem of social integration, this article proposes a network segregation perspective for the study of populism. Specifically, it theorizes that populist voting is shaped by the socioeconomic composition of individuals’ personal networks.",
-      "doi_url": "doi.org/10.1093/sf/soag148",
-      "pub_date": "2026-10-04"
+      "title": "Nonstandard work, nonstandard lives? Temporary employment, unemployment, and family transitions",
+      "authors": "Hande Inanc",
+      "snippet": "It is well documented that unemployment is closely associated with family outcomes, affecting the occurrence, timing, and sequencing of key family transitions. Individuals with unemployment experience are more likely to postpone marriage, enter cohabiting unions, transition into parenthood outside marriage, and experience partnership dissolution.",
+      "doi_url": "doi.org/10.1093/sf/soag149",
+      "pub_date": "2026-10-16"
     },
     {
       "type": "book_review",
@@ -35,18 +35,18 @@
     },
     {
       "type": "finding",
-      "hook": "After George Floyd's killing, young White Americans' views of police split from older ones. What drove it wasn't generation but party: only young Democrats and Independents shifted.",
-      "title": "Generational imprinting: how political events shape cohorts",
-      "authors": "Turgut Keskintürk",
-      "doi_url": "doi.org/10.1093/sf/soag143"
+      "hook": "What keeps racial exclusion alive in former sundown towns isn't just time. It's a 1920s Klan presence that shaped White residents' attitudes and who chose to stay or move in.",
+      "title": "On legacy persistence: historical KKK organizations and racial exclusion in American sundown towns",
+      "authors": "Kunyuan Qiao, Ashley V Reichelmann, and Matthew O Hunt",
+      "doi_url": "doi.org/10.1093/sf/soag142"
     },
     {
       "type": "article",
-      "title": "Neighborhood change and Black-White segregation: 2000–2020",
-      "authors": "John R Logan and Liangdi Xu",
-      "snippet": "This study examines the relationship between neighborhood racial change and metropolitan segregation in 2000–2020. The most surprising finding is that the principal source of declining Black-White segregation has not been Black growth in White neighborhoods.",
-      "doi_url": "doi.org/10.1093/sf/soag146",
-      "pub_date": "2026-10-01"
+      "title": "Populism as a problem of social segregation: socioeconomic composition of personal networks and populist voting",
+      "authors": "Bernardo Mackenna, Ricardo González, Adolfo Fuentes, and Esteban Muñoz",
+      "snippet": "Responding to recent calls to understand populism as a problem of social integration, this article proposes a network segregation perspective for the study of populism. Specifically, it theorizes that populist voting is shaped by the socioeconomic composition of individuals’ personal networks.",
+      "doi_url": "doi.org/10.1093/sf/soag148",
+      "pub_date": "2026-10-04"
     },
     {
       "type": "book_review",
@@ -68,18 +68,18 @@
     },
     {
       "type": "finding",
-      "hook": "Where you live shapes your finances. Rural households owe less on credit cards, student loans, and mortgages, but also have less savings and homes worth less.",
-      "title": "Life and debt in rural America",
-      "authors": "Matthew M Brooks and Paromita Sanyal",
-      "doi_url": "doi.org/10.1093/sf/soag145"
+      "hook": "After George Floyd's killing, young White Americans' views of police split from older ones. What drove it wasn't generation but party: only young Democrats and Independents shifted.",
+      "title": "Generational imprinting: how political events shape cohorts",
+      "authors": "Turgut Keskintürk",
+      "doi_url": "doi.org/10.1093/sf/soag143"
     },
     {
       "type": "article",
-      "title": "Life and debt in rural America",
-      "authors": "Matthew M Brooks and Paromita Sanyal",
-      "snippet": "Sociology’s growing focus on household debt and wealth has overlooked a potentially salient axis of inequality: rural–urban disparities in the United States. Key facets of rural life indicate a disadvantage (e.g., higher poverty rates, lack of mainstream financial institutions) and a simultaneous advantage (e.g., predominantly White populations, lower cost of living).",
-      "doi_url": "doi.org/10.1093/sf/soag145",
-      "pub_date": "2026-09-29"
+      "title": "Neighborhood change and Black-White segregation: 2000–2020",
+      "authors": "John R Logan and Liangdi Xu",
+      "snippet": "This study examines the relationship between neighborhood racial change and metropolitan segregation in 2000–2020. The most surprising finding is that the principal source of declining Black-White segregation has not been Black growth in White neighborhoods.",
+      "doi_url": "doi.org/10.1093/sf/soag146",
+      "pub_date": "2026-10-01"
     },
     {
       "type": "book_review",
@@ -101,17 +101,17 @@
     },
     {
       "type": "finding",
-      "hook": "Segregation between Black and White Americans is falling. Most assume that's Black families moving into White areas. The bigger driver: Black residents leaving Black neighborhoods.",
-      "title": "Neighborhood change and Black-White segregation: 2000–2020",
-      "authors": "John R Logan and Liangdi Xu",
-      "doi_url": "doi.org/10.1093/sf/soag146"
+      "hook": "Where you live shapes your finances. Rural households owe less on credit cards, student loans, and mortgages, but also have less savings and homes worth less.",
+      "title": "Life and debt in rural America",
+      "authors": "Matthew M Brooks and Paromita Sanyal",
+      "doi_url": "doi.org/10.1093/sf/soag145"
     },
     {
       "type": "article",
-      "title": "Generational imprinting: how political events shape cohorts",
-      "authors": "Turgut Keskintürk",
-      "snippet": "Contemporary narratives of generational politics propose that formative experiences produce shared political opinions across an age cohort. In this article, I advance a theory of cohortization to challenge that view, arguing that large–scale political events produce differentiation within cohorts as much as differentiation between them.",
-      "doi_url": "doi.org/10.1093/sf/soag143",
+      "title": "Life and debt in rural America",
+      "authors": "Matthew M Brooks and Paromita Sanyal",
+      "snippet": "Sociology’s growing focus on household debt and wealth has overlooked a potentially salient axis of inequality: rural–urban disparities in the United States. Key facets of rural life indicate a disadvantage (e.g., higher poverty rates, lack of mainstream financial institutions) and a simultaneous advantage (e.g., predominantly White populations, lower cost of living).",
+      "doi_url": "doi.org/10.1093/sf/soag145",
       "pub_date": "2026-09-29"
     },
     {
@@ -134,17 +134,17 @@
     },
     {
       "type": "finding",
-      "hook": "People whose friends and contacts are higher status are consistently less likely to vote for populist candidates, across 19 countries and some 18,000 voters.",
-      "title": "Populism as a problem of social segregation: socioeconomic composition of personal networks and populist voting",
-      "authors": "Bernardo Mackenna, Ricardo González, Adolfo Fuentes, and Esteban Muñoz",
-      "doi_url": "doi.org/10.1093/sf/soag148"
+      "hook": "Segregation between Black and White Americans is falling. Most assume that's Black families moving into White areas. The bigger driver: Black residents leaving Black neighborhoods.",
+      "title": "Neighborhood change and Black-White segregation: 2000–2020",
+      "authors": "John R Logan and Liangdi Xu",
+      "doi_url": "doi.org/10.1093/sf/soag146"
     },
     {
       "type": "article",
-      "title": "On legacy persistence: historical KKK organizations and racial exclusion in American sundown towns",
-      "authors": "Kunyuan Qiao, Ashley V Reichelmann, and Matthew O Hunt",
-      "snippet": "Why do some communities perpetuate historical patterns of racial exclusion while others abandon them? We examine American sundown towns, communities that from the 1890s through the 1960s barred people of color from remaining within their borders after sunset.",
-      "doi_url": "doi.org/10.1093/sf/soag142",
+      "title": "Generational imprinting: how political events shape cohorts",
+      "authors": "Turgut Keskintürk",
+      "snippet": "Contemporary narratives of generational politics propose that formative experiences produce shared political opinions across an age cohort. In this article, I advance a theory of cohortization to challenge that view, arguing that large–scale political events produce differentiation within cohorts as much as differentiation between them.",
+      "doi_url": "doi.org/10.1093/sf/soag143",
       "pub_date": "2026-09-29"
     },
     {
@@ -167,18 +167,18 @@
     },
     {
       "type": "finding",
-      "hook": "Unequal school attendance can't be blamed on parents wanting different things. In the United States, Germany, and Italy, parents with and without degrees rate schools almost identically.",
-      "title": "School preferences across countries and social groups: a factorial survey experiment in the United States, Germany and Italy",
-      "authors": "Guido Salza and Moris Triventi",
-      "doi_url": "doi.org/10.1093/sf/soag130"
+      "hook": "People whose friends and contacts are higher status are consistently less likely to vote for populist candidates, across 19 countries and some 18,000 voters.",
+      "title": "Populism as a problem of social segregation: socioeconomic composition of personal networks and populist voting",
+      "authors": "Bernardo Mackenna, Ricardo González, Adolfo Fuentes, and Esteban Muñoz",
+      "doi_url": "doi.org/10.1093/sf/soag148"
     },
     {
       "type": "article",
-      "title": "Enduring links: mental health effects of ex-partner’s life events among separated parents",
-      "authors": "Philipp Dierker, Mine Kühn, Sanna Kailaheimo-Björkqvist, and Mikko Myrskylä",
-      "snippet": "Union dissolutions between parents do not necessarily end interdependencies between them. This study examines whether life events of ex-partners with a shared child affect each other’s mental health, extending life course theory on linked lives beyond intact families.",
-      "doi_url": "doi.org/10.1093/sf/soag141",
-      "pub_date": "2026-09-22"
+      "title": "On legacy persistence: historical KKK organizations and racial exclusion in American sundown towns",
+      "authors": "Kunyuan Qiao, Ashley V Reichelmann, and Matthew O Hunt",
+      "snippet": "Why do some communities perpetuate historical patterns of racial exclusion while others abandon them? We examine American sundown towns, communities that from the 1890s through the 1960s barred people of color from remaining within their borders after sunset.",
+      "doi_url": "doi.org/10.1093/sf/soag142",
+      "pub_date": "2026-09-29"
     },
     {
       "type": "book_review",
@@ -200,18 +200,18 @@
     },
     {
       "type": "finding",
-      "hook": "The more dangerous the job, the more conservative its workers. And people who take hazardous jobs grow more conservative over time than their peers in safer work.",
-      "title": "Occupational hazard and political segregation in the US labor market",
-      "authors": "Ray Tsai Fang",
-      "doi_url": "doi.org/10.1093/sf/soag124"
+      "hook": "Unequal school attendance can't be blamed on parents wanting different things. In the United States, Germany, and Italy, parents with and without degrees rate schools almost identically.",
+      "title": "School preferences across countries and social groups: a factorial survey experiment in the United States, Germany and Italy",
+      "authors": "Guido Salza and Moris Triventi",
+      "doi_url": "doi.org/10.1093/sf/soag130"
     },
     {
       "type": "article",
-      "title": "Curricular-credential decoupling: how schools respond to college and career readiness policy",
-      "authors": "Matt S Giani, Madison E Andrews, Tasneem Sultana, and Fortunato N Medrano",
-      "snippet": "This study examines schools’ college and career readiness (CCR) policy responses through the lens of decoupling. We investigate how high schools have jointly implemented career and technical education (CTE) and industry-based certifications (IBCs), and whether there is evidence of curricular-credential decoupling via misalignment between the subject areas of students’ CTE coursework and IBC completion.",
-      "doi_url": "doi.org/10.1093/sf/soag133",
-      "pub_date": "2026-09-16"
+      "title": "Enduring links: mental health effects of ex-partner’s life events among separated parents",
+      "authors": "Philipp Dierker, Mine Kühn, Sanna Kailaheimo-Björkqvist, and Mikko Myrskylä",
+      "snippet": "Union dissolutions between parents do not necessarily end interdependencies between them. This study examines whether life events of ex-partners with a shared child affect each other’s mental health, extending life course theory on linked lives beyond intact families.",
+      "doi_url": "doi.org/10.1093/sf/soag141",
+      "pub_date": "2026-09-22"
     },
     {
       "type": "book_review",
@@ -233,18 +233,18 @@
     },
     {
       "type": "finding",
-      "hook": "More job certifications should mean better career prep. In Texas high schools, certifications soared while career coursework barely moved, and fewer matched what students studied.",
-      "title": "Curricular-credential decoupling: how schools respond to college and career readiness policy",
-      "authors": "Matt S Giani, Madison E Andrews, Tasneem Sultana, and Fortunato N Medrano",
-      "doi_url": "doi.org/10.1093/sf/soag133"
+      "hook": "The more dangerous the job, the more conservative its workers. And people who take hazardous jobs grow more conservative over time than their peers in safer work.",
+      "title": "Occupational hazard and political segregation in the US labor market",
+      "authors": "Ray Tsai Fang",
+      "doi_url": "doi.org/10.1093/sf/soag124"
     },
     {
       "type": "article",
-      "title": "Occupational hazard and political segregation in the US labor market",
-      "authors": "Ray Tsai Fang",
-      "snippet": "The tendency for liberals and conservatives to cluster in different occupations significantly impacts society, yet the factors that contribute to this type of segregation remain incompletely understood. Bridging research from cultural and cognitive psychology, I develop a theory describing how occupational environments can shape people’s political ideologies, thereby contributing to political segregation in the labor market.",
-      "doi_url": "doi.org/10.1093/sf/soag124",
-      "pub_date": "2026-09-13"
+      "title": "Curricular-credential decoupling: how schools respond to college and career readiness policy",
+      "authors": "Matt S Giani, Madison E Andrews, Tasneem Sultana, and Fortunato N Medrano",
+      "snippet": "This study examines schools’ college and career readiness (CCR) policy responses through the lens of decoupling. We investigate how high schools have jointly implemented career and technical education (CTE) and industry-based certifications (IBCs), and whether there is evidence of curricular-credential decoupling via misalignment between the subject areas of students’ CTE coursework and IBC completion.",
+      "doi_url": "doi.org/10.1093/sf/soag133",
+      "pub_date": "2026-09-16"
     },
     {
       "type": "book_review",
@@ -263,6 +263,21 @@
       "authors": "Christopher Kollmeyer",
       "snippet": "This study assesses whether the legacy of colonialism continues to influence patterns of civil violence in the contemporary era. A large and established quantitative literature attributes civil violence to low levels of economic development and limited political rights, but few quantitative studies consider whether colonial legacy plays an enduring role in such conflicts.",
       "doi_url": "doi.org/10.1093/sf/soaf036"
+    },
+    {
+      "type": "finding",
+      "hook": "More job certifications should mean better career prep. In Texas high schools, certifications soared while career coursework barely moved, and fewer matched what students studied.",
+      "title": "Curricular-credential decoupling: how schools respond to college and career readiness policy",
+      "authors": "Matt S Giani, Madison E Andrews, Tasneem Sultana, and Fortunato N Medrano",
+      "doi_url": "doi.org/10.1093/sf/soag133"
+    },
+    {
+      "type": "article",
+      "title": "Occupational hazard and political segregation in the US labor market",
+      "authors": "Ray Tsai Fang",
+      "snippet": "The tendency for liberals and conservatives to cluster in different occupations significantly impacts society, yet the factors that contribute to this type of segregation remain incompletely understood. Bridging research from cultural and cognitive psychology, I develop a theory describing how occupational environments can shape people’s political ideologies, thereby contributing to political segregation in the labor market.",
+      "doi_url": "doi.org/10.1093/sf/soag124",
+      "pub_date": "2026-09-13"
     },
     {
       "type": "finding",
@@ -317,26 +332,11 @@
       "doi_url": "doi.org/10.1093/sf/soag104"
     },
     {
-      "type": "article",
-      "title": "Do caring fathers earn less? Earnings consequences of fathers’ parental leave use",
-      "authors": "Corinna Frodermann, Ann-Christin Bächmann, and Andreas Filser",
-      "snippet": "In many Western societies, policy efforts seek to increase fathers’ involvement in parental leave, yet many fathers remain reluctant due to concerns about earnings consequences. Despite these concerns, the consequences of parental leave and their underlying mechanisms remain understudied.",
-      "doi_url": "doi.org/10.1093/sf/soag126",
-      "pub_date": "2026-09-04"
-    },
-    {
       "type": "finding",
       "hook": "Does discrimination follow you beyond your own neighborhood? Black adults are twice as likely as White adults to report it, and the gap is widest at work, stores, and businesses.",
       "title": "Defended neighborhoods, vulnerable routines: routine activities, collective efficacy, and the social ecology of discrimination",
       "authors": "Nicolo P Pinchak, Christopher R Browning, Bethany Boettner, J Brandon Carter, and Catherine A Calder",
       "doi_url": "doi.org/10.1093/sf/soag119"
-    },
-    {
-      "type": "finding",
-      "hook": "Gentrification was supposed to break up old segregation. It does for some, but it builds new racial divides in the suburbs and keeps Black and White households apart.",
-      "title": "Integrating or segregating? Gentrification, the changing city-suburb divide, and black exceptionalism",
-      "authors": "Jackelyn Hwang, Elizabeth Roberto, Francine I Stephens, and Jacob S Rugh",
-      "doi_url": "doi.org/10.1093/sf/soag102"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "slides": [
     {
       "type": "finding",
+      "hook": "Religious upbringing is often linked with early motherhood. But as early births moved outside marriage, women who went to church often as kids became less likely to have a child by 24.",
+      "title": "Religion and early fertility in the United States: changes during the second demographic transition",
+      "authors": "Jeremy E Uecker and Riley S Peterson",
+      "doi_url": "doi.org/10.1093/sf/soag152"
+    },
+    {
+      "type": "article",
+      "title": "Beyond economic bargaining power? Work-related internal migration and subjective well-being in couples",
+      "authors": "Elias Hofmann, Nico Stawarz, Nicolai Netz, and Heiko Rüger",
+      "snippet": "Bargaining theory posits that both partners’ utility shapes couples’ migration decisions. Yet, most empirical tests focus on individual incomes, thus overlooking non-economic factors in couples’ deliberations about spatial mobility.",
+      "doi_url": "doi.org/10.1093/sf/soag153",
+      "pub_date": "2026-10-28"
+    },
+    {
+      "type": "book_review",
+      "book_title": "Disposable Workers: The Transformation of Employment",
+      "book_author": "",
+      "book_year": "",
+      "reviewer": "",
+      "doi_url": "doi.org/10.1093/sf/soag154",
+      "cover": ""
+    },
+    {
+      "type": "classic",
+      "source": "most_cited",
+      "rank": "1",
+      "title": "Roles in Sociological Field Observations",
+      "authors": "R. L. Gold",
+      "snippet": "",
+      "doi_url": "doi.org/10.2307/2573808"
+    },
+    {
+      "type": "finding",
       "hook": "Girls earn higher grades than boys, often credited to maturing faster. Physical maturity explains only a sliver. Impulse control matters more, and most of the gap remains unexplained.",
       "title": "Sex differences in academic achievement in US adolescents: the role of maturation and impulse control",
       "authors": "Liza Reisel and Atika Khurana",
@@ -17,21 +50,21 @@
     },
     {
       "type": "book_review",
-      "book_title": "Family Legal Vulnerability: How Immigration Policy Shapes the Lives of Latino College Students",
+      "book_title": "Defending Democracy in the European Parliament: An Institutional Drama",
       "book_author": "",
       "book_year": "",
       "reviewer": "",
-      "doi_url": "doi.org/10.1093/sf/soag155",
+      "doi_url": "doi.org/10.1093/sf/soag159",
       "cover": ""
     },
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "1",
-      "title": "Roles in Sociological Field Observations",
-      "authors": "R. L. Gold",
+      "rank": "2",
+      "title": "Conceptualizing Political Opportunity",
+      "authors": "D. S. Meyer and D. C. Minkoff",
       "snippet": "",
-      "doi_url": "doi.org/10.2307/2573808"
+      "doi_url": "doi.org/10.1353/sof.2004.0082"
     },
     {
       "type": "finding",
@@ -50,21 +83,21 @@
     },
     {
       "type": "book_review",
-      "book_title": "Walmart: Made in China",
+      "book_title": "Major Trade-Offs: The Surprising Truths About College Majors and Entry-Level Jobs",
       "book_author": "",
       "book_year": "",
-      "reviewer": "@christilly.bsky.social",
-      "doi_url": "doi.org/10.1093/sf/soag147",
+      "reviewer": "",
+      "doi_url": "doi.org/10.1093/sf/soag160",
       "cover": ""
     },
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "2",
-      "title": "Conceptualizing Political Opportunity",
-      "authors": "D. S. Meyer and D. C. Minkoff",
+      "rank": "3",
+      "title": "Housework: Who Did, Does or Will Do It, and How Much Does It Matter?",
+      "authors": "S. M. Bianchi, L. C. Sayer, M. A. Milkie, and J. P. Robinson",
       "snippet": "",
-      "doi_url": "doi.org/10.1353/sof.2004.0082"
+      "doi_url": "doi.org/10.1093/sf/sos120"
     },
     {
       "type": "finding",
@@ -83,21 +116,21 @@
     },
     {
       "type": "book_review",
-      "book_title": "Privileged Brotherhoods: Becoming Men at Elite All-Boys Schools",
+      "book_title": "Family Legal Vulnerability: How Immigration Policy Shapes the Lives of Latino College Students",
       "book_author": "",
       "book_year": "",
-      "reviewer": "@tristanbridges.bsky.social",
-      "doi_url": "doi.org/10.1093/sf/soag129",
+      "reviewer": "",
+      "doi_url": "doi.org/10.1093/sf/soag155",
       "cover": ""
     },
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "3",
-      "title": "Housework: Who Did, Does or Will Do It, and How Much Does It Matter?",
-      "authors": "S. M. Bianchi, L. C. Sayer, M. A. Milkie, and J. P. Robinson",
+      "rank": "4",
+      "title": "Anti-Immigrant Prejudice in Europe: Contact, Threat Perception, and Preferences for the Exclusion of Migrants",
+      "authors": "L. M. McLaren",
       "snippet": "",
-      "doi_url": "doi.org/10.1093/sf/sos120"
+      "doi_url": "doi.org/10.1353/sof.2003.0038"
     },
     {
       "type": "finding",
@@ -116,21 +149,21 @@
     },
     {
       "type": "book_review",
-      "book_title": "Island Time: Theory Groups and the Social Production of Scientific Knowledge",
+      "book_title": "Walmart: Made in China",
       "book_author": "",
       "book_year": "",
-      "reviewer": "Keith Sawyer",
-      "doi_url": "doi.org/10.1093/sf/soag139",
+      "reviewer": "@christilly.bsky.social",
+      "doi_url": "doi.org/10.1093/sf/soag147",
       "cover": ""
     },
     {
       "type": "classic",
       "source": "most_cited",
-      "rank": "4",
-      "title": "Anti-Immigrant Prejudice in Europe: Contact, Threat Perception, and Preferences for the Exclusion of Migrants",
-      "authors": "L. M. McLaren",
+      "rank": "5",
+      "title": "Feminist Attitudes and Support for Gender Equality: Opinion Change in Women and Men, 1974-1998",
+      "authors": "C. I. Bolzendahl and D. J. Myers",
       "snippet": "",
-      "doi_url": "doi.org/10.1353/sof.2003.0038"
+      "doi_url": "doi.org/10.1353/sof.2005.0005"
     },
     {
       "type": "finding",
@@ -149,21 +182,21 @@
     },
     {
       "type": "book_review",
-      "book_title": "Immigration: How the Past Shapes the Present",
+      "book_title": "Privileged Brotherhoods: Becoming Men at Elite All-Boys Schools",
       "book_author": "",
       "book_year": "",
-      "reviewer": "Andrew Le",
-      "doi_url": "doi.org/10.1093/sf/soag134",
+      "reviewer": "@tristanbridges.bsky.social",
+      "doi_url": "doi.org/10.1093/sf/soag129",
       "cover": ""
     },
     {
       "type": "classic",
-      "source": "most_cited",
-      "rank": "5",
-      "title": "Feminist Attitudes and Support for Gender Equality: Opinion Change in Women and Men, 1974-1998",
-      "authors": "C. I. Bolzendahl and D. J. Myers",
-      "snippet": "",
-      "doi_url": "doi.org/10.1353/sof.2005.0005"
+      "source": "most_read",
+      "rank": "1",
+      "title": "Narrations of non-motherhood: how context shapes what it means to be childless in the United States and Japan",
+      "authors": "Holly Hummer",
+      "snippet": "In our era of low fertility rates, much research has examined factors behind delayed childbearing and childlessness. While scholars emphasize the role of macro-level context in constraining reproductive decision-making, less attention has been paid to how context shapes what it means, subjectively, to remain childless today.",
+      "doi_url": "doi.org/10.1093/sf/soag026"
     },
     {
       "type": "finding",
@@ -182,21 +215,21 @@
     },
     {
       "type": "book_review",
-      "book_title": "Blame the Intern: On (Not) Breaking into the Creative Economy",
+      "book_title": "Island Time: Theory Groups and the Social Production of Scientific Knowledge",
       "book_author": "",
       "book_year": "",
-      "reviewer": "@cmpech.bsky.social",
-      "doi_url": "doi.org/10.1093/sf/soag138",
+      "reviewer": "Keith Sawyer",
+      "doi_url": "doi.org/10.1093/sf/soag139",
       "cover": ""
     },
     {
       "type": "classic",
       "source": "most_read",
-      "rank": "1",
-      "title": "Narrations of non-motherhood: how context shapes what it means to be childless in the United States and Japan",
-      "authors": "Holly Hummer",
-      "snippet": "In our era of low fertility rates, much research has examined factors behind delayed childbearing and childlessness. While scholars emphasize the role of macro-level context in constraining reproductive decision-making, less attention has been paid to how context shapes what it means, subjectively, to remain childless today.",
-      "doi_url": "doi.org/10.1093/sf/soag026"
+      "rank": "2",
+      "title": "The global rise in children’s attention-deficit/hyperactivity disorder prevalence: a macro-sociological explanation",
+      "authors": "Irem Tuncer-Ebetürk, Jessica Kim, and Yasemin Nuhoğlu Soysal",
+      "snippet": "In the past three decades, the global diagnosis rate of attention-deficit/hyperactivity disorder (ADHD) has grown drastically. While existing sociological studies demonstrate the complexity of ADHD diagnoses and treatment in specific national contexts, their ability to explain ADHD’s global growth is limited.",
+      "doi_url": "doi.org/10.1093/sf/soaf153"
     },
     {
       "type": "finding",
@@ -215,21 +248,21 @@
     },
     {
       "type": "book_review",
-      "book_title": "Police Reform: An Obituary",
+      "book_title": "Immigration: How the Past Shapes the Present",
       "book_author": "",
       "book_year": "",
-      "reviewer": "Rebecca Hanson",
-      "doi_url": "doi.org/10.1093/sf/soag137",
+      "reviewer": "Andrew Le",
+      "doi_url": "doi.org/10.1093/sf/soag134",
       "cover": ""
     },
     {
       "type": "classic",
       "source": "most_read",
-      "rank": "2",
-      "title": "The global rise in children’s attention-deficit/hyperactivity disorder prevalence: a macro-sociological explanation",
-      "authors": "Irem Tuncer-Ebetürk, Jessica Kim, and Yasemin Nuhoğlu Soysal",
-      "snippet": "In the past three decades, the global diagnosis rate of attention-deficit/hyperactivity disorder (ADHD) has grown drastically. While existing sociological studies demonstrate the complexity of ADHD diagnoses and treatment in specific national contexts, their ability to explain ADHD’s global growth is limited.",
-      "doi_url": "doi.org/10.1093/sf/soaf153"
+      "rank": "3",
+      "title": "Colonial legacy and contemporary civil violence: a global study from 1960 to 2018",
+      "authors": "Christopher Kollmeyer",
+      "snippet": "This study assesses whether the legacy of colonialism continues to influence patterns of civil violence in the contemporary era. A large and established quantitative literature attributes civil violence to low levels of economic development and limited political rights, but few quantitative studies consider whether colonial legacy plays an enduring role in such conflicts.",
+      "doi_url": "doi.org/10.1093/sf/soaf036"
     },
     {
       "type": "finding",
@@ -245,24 +278,6 @@
       "snippet": "Contemporary narratives of generational politics propose that formative experiences produce shared political opinions across an age cohort. In this article, I advance a theory of cohortization to challenge that view, arguing that large–scale political events produce differentiation within cohorts as much as differentiation between them.",
       "doi_url": "doi.org/10.1093/sf/soag143",
       "pub_date": "2026-09-29"
-    },
-    {
-      "type": "book_review",
-      "book_title": "An Elite Education: How Privilege Is Produced in a Private School",
-      "book_author": "",
-      "book_year": "",
-      "reviewer": "Nathan D Martin",
-      "doi_url": "doi.org/10.1093/sf/soag136",
-      "cover": ""
-    },
-    {
-      "type": "classic",
-      "source": "most_read",
-      "rank": "3",
-      "title": "Colonial legacy and contemporary civil violence: a global study from 1960 to 2018",
-      "authors": "Christopher Kollmeyer",
-      "snippet": "This study assesses whether the legacy of colonialism continues to influence patterns of civil violence in the contemporary era. A large and established quantitative literature attributes civil violence to low levels of economic development and limited political rights, but few quantitative studies consider whether colonial legacy plays an enduring role in such conflicts.",
-      "doi_url": "doi.org/10.1093/sf/soaf036"
     },
     {
       "type": "finding",
@@ -317,26 +332,11 @@
       "doi_url": "doi.org/10.1093/sf/soag146"
     },
     {
-      "type": "article",
-      "title": "Occupational hazard and political segregation in the US labor market",
-      "authors": "Ray Tsai Fang",
-      "snippet": "The tendency for liberals and conservatives to cluster in different occupations significantly impacts society, yet the factors that contribute to this type of segregation remain incompletely understood. Bridging research from cultural and cognitive psychology, I develop a theory describing how occupational environments can shape people’s political ideologies, thereby contributing to political segregation in the labor market.",
-      "doi_url": "doi.org/10.1093/sf/soag124",
-      "pub_date": "2026-09-13"
-    },
-    {
       "type": "finding",
       "hook": "People whose friends and contacts are higher status are consistently less likely to vote for populist candidates, across 19 countries and some 18,000 voters.",
       "title": "Populism as a problem of social segregation: socioeconomic composition of personal networks and populist voting",
       "authors": "Bernardo Mackenna, Ricardo González, Adolfo Fuentes, and Esteban Muñoz",
       "doi_url": "doi.org/10.1093/sf/soag148"
-    },
-    {
-      "type": "finding",
-      "hook": "Unequal school attendance can't be blamed on parents wanting different things. In the United States, Germany, and Italy, parents with and without degrees rate schools almost identically.",
-      "title": "School preferences across countries and social groups: a factorial survey experiment in the United States, Germany and Italy",
-      "authors": "Guido Salza and Moris Triventi",
-      "doi_url": "doi.org/10.1093/sf/soag130"
     }
   ]
 }
